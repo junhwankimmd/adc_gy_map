@@ -5,6 +5,8 @@ conjugates relevant to **gynecologic cancers** (ovarian/fallopian/peritoneal, en
 cervical, vulvar/vaginal, GTN) and links each drug to its **ClinicalTrials.gov** trials and
 **PubMed** literature.
 
+### 🔗 Live dashboard: https://junhwankimmd.github.io/adc_gy_map/
+
 ## Output
 
 - **`output/adc_gyn_dashboard.html`** — self-contained interactive dashboard (open in any browser):
@@ -52,16 +54,19 @@ Delete `data/ctgov_cache/` and `data/pubmed_cache/` to force fresh API data.
 
 ## Scheduled auto-refresh (macOS launchd)
 
+Installs a LaunchAgent that runs `cron/daily_update.sh` — which rebuilds the dataset + dashboard
+**and commits/pushes**, so the public GitHub Pages site updates automatically.
+
 ```bash
-bash cron/install.sh            # weekly, Monday 07:00 (default)
-WEEKDAY=3 HOUR=6 bash cron/install.sh   # e.g. Wednesday 06:00
+bash cron/install.sh                    # DAILY at 07:00 (default)
+HOUR=6 MINUTE=30 bash cron/install.sh   # daily at 06:30
+WEEKDAY=1 bash cron/install.sh          # weekly instead (1 = Monday)
 launchctl start com.adcgynmap.refresh   # run once now to test
-bash cron/uninstall.sh          # remove
+bash cron/uninstall.sh                  # remove
 ```
 
-Logs go to `logs/refresh.{out,err}.log`. The agent runs `run_all.sh`, which refetches the
-catalog and rebuilds all outputs (API responses stay cached, so only new/changed records hit
-the network).
+Logs go to `logs/refresh.{out,err}.log`. API responses stay cached, so only new/changed records
+hit the network. Pushing requires git credentials on the machine (`gh auth setup-git`).
 
 ## Caveats
 - CT.gov intervention search + condition post-filter is high-precision but not exhaustive; rare
