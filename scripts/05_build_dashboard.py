@@ -426,7 +426,13 @@ for k, v in repl.items():
     HTML = HTML.replace(k, v)
 
 OUT.write_text(HTML, encoding="utf-8")
+# Also publish a copy for GitHub Pages (served from main:/docs).
+DOCS = ROOT / "docs"
+DOCS.mkdir(exist_ok=True)
+(DOCS / "index.html").write_text(HTML, encoding="utf-8")
+(DOCS / ".nojekyll").write_text("")
 tc = Counter(d.get("target", "Other / unspecified") for d in drugs)
 print(f"Dashboard written: {OUT}")
+print(f"Pages copy written: {DOCS / 'index.html'}")
 print(f"  {n_total} gyn ADCs | {n_trials} trials | {n_papers} papers | {n_targets} distinct targets")
 print(f"  top targets: {dict(tc.most_common(6))}")
