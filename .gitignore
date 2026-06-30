@@ -1,0 +1,16 @@
+# Regenerable caches & raw fetches (large; rebuilt by run_all.sh)
+data/detail_html/
+data/ctgov_cache/
+data/pubmed_cache/
+data/drugmap.html
+
+# Scheduler logs
+logs/
+
+# Python / OS cruft
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local Claude Code settings (machine-specific)
+.claude/settings.local.json

@@ -1,0 +1,1302 @@
+[
+  {
+    "itemid": "6744",
+    "name": "AB-3A4 ADC",
+    "synonyms": [],
+    "name_full": "AB-3A4 ADC",
+    "company": "Alethia Biotherapeutics",
+    "url": "https://www.adcreview.com/drugmap/ab-3a4-adc/",
+    "slug": "ab-3a4-adc",
+    "organ_tags": [
+      "breast",
+      "ovaries",
+      "prostate"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "5682",
+    "name": "AbGn-108",
+    "synonyms": [],
+    "name_full": "AbGn-108",
+    "company": "AbGenomics International",
+    "url": "https://www.adcreview.com/drugmap/abgn-108/",
+    "slug": "abgn-108",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "21032",
+    "name": "ADRX-0134",
+    "synonyms": [],
+    "name_full": "ADRX-0134",
+    "company": "Adcentrx Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/adrx-0134/",
+    "slug": "adrx-0134",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "5702",
+    "name": "Anetumab Ravtansine",
+    "synonyms": [
+      "BAY 94-9343"
+    ],
+    "name_full": "Anetumab Ravtansine | BAY 94-9343",
+    "company": "Bayer HealthCare Pharmaceuticals in association with ImmunoGen Inc.",
+    "url": "https://www.adcreview.com/drugmap/anetumab-ravtansine-bay-94-9343-2/",
+    "slug": "anetumab-ravtansine-bay-94-9343-2",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "6796",
+    "name": "anti-HER-3 ADC",
+    "synonyms": [],
+    "name_full": "anti-HER-3 ADC",
+    "company": "MediaPharma",
+    "url": "https://www.adcreview.com/drugmap/anti-3-adc-tem-1-adc/",
+    "slug": "anti-3-adc-tem-1-adc",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "melanocytes",
+      "ovaries",
+      "pancreas",
+      "stomach"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "1065",
+    "name": "ARX788 HER2 ADC",
+    "synonyms": [
+      "ARX788"
+    ],
+    "name_full": "ARX788 HER2 ADC | ARX788",
+    "company": "Zhejiang Medicine Co. | Ambrx",
+    "url": "https://www.adcreview.com/drugmap/arx788/",
+    "slug": "arx788",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "17129",
+    "name": "AZD8205",
+    "synonyms": [],
+    "name_full": "AZD8205",
+    "company": "AstraZeneca",
+    "url": "https://www.adcreview.com/drugmap/azd8205-is-a-b7-h4-targeting-adc-being-developed-by-astrazeneca/",
+    "slug": "azd8205-is-a-b7-h4-targeting-adc-being-developed-by-astrazeneca",
+    "organ_tags": [
+      "breast",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "18576",
+    "name": "BAT8006",
+    "synonyms": [],
+    "name_full": "BAT8006",
+    "company": "Bio-Thera Solutions, Ltd",
+    "url": "https://www.adcreview.com/drugmap/bat8006/",
+    "slug": "bat8006",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "1058",
+    "name": "BAY79-4620",
+    "synonyms": [],
+    "name_full": "BAY79-4620",
+    "company": "Bayer HealthCare",
+    "url": "https://www.adcreview.com/drugmap/bay-79-4620-3ee9/",
+    "slug": "bay-79-4620-3ee9",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "1063",
+    "name": "BIIB-015",
+    "synonyms": [
+      "BIIB015"
+    ],
+    "name_full": "BIIB-015 | BIIB015",
+    "company": "Biogen",
+    "url": "https://www.adcreview.com/drugmap/biib-015/",
+    "slug": "biib-015",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "4456",
+    "name": "Cantuzumab mertansine",
+    "synonyms": [
+      "huC242-DM1",
+      "SB-408075"
+    ],
+    "name_full": "Cantuzumab mertansine | huC242-DM1 | SB-408075",
+    "company": "GlaxoSmithKline (GSK) / ImmunoGen",
+    "url": "https://www.adcreview.com/drugmap/cantuzumab-mertansine-huc242-dm1/",
+    "slug": "cantuzumab-mertansine-huc242-dm1",
+    "organ_tags": [
+      "colon",
+      "lungs",
+      "pancreas",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "7417",
+    "name": "CMB-401",
+    "synonyms": [
+      "hCTMO1-calicheamicin",
+      "CDP-671"
+    ],
+    "name_full": "CMB-401 | hCTMO1-calicheamicin | CDP-671",
+    "company": "Pfizer (Wyeth Pharmaceuticals); Celltech",
+    "url": "https://www.adcreview.com/drugmap/cmb-401-hctmo1-calicheamicin-cdp-671/",
+    "slug": "cmb-401-hctmo1-calicheamicin-cdp-671",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "5625",
+    "name": "Cofetuzumab Pelidotin",
+    "synonyms": [
+      "PF-06647020",
+      "ABBV-647"
+    ],
+    "name_full": "Cofetuzumab Pelidotin | PF-06647020 | ABBV-647",
+    "company": "Pfizer Stemcentrx (now AbbVie) In collaboration with Indiana University",
+    "url": "https://www.adcreview.com/drugmap/pf-06647020-pf-06647020-abbv-647/",
+    "slug": "pf-06647020-pf-06647020-abbv-647",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "18573",
+    "name": "CUSP06",
+    "synonyms": [],
+    "name_full": "CUSP06",
+    "company": "OnCusp Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/cusp06/",
+    "slug": "cusp06",
+    "organ_tags": [
+      "kidneys",
+      "ovaries",
+      "ureter"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "21029",
+    "name": "CUSP06 (previously known as AMT-707)",
+    "synonyms": [],
+    "name_full": "CUSP06 (previously known as AMT-707)",
+    "company": "OnCusp Therapeutics (CUSP06) Multitude Therapeutics (AMT-707)",
+    "url": "https://www.adcreview.com/drugmap/cusp06-previously-known-as-amt-707/",
+    "slug": "cusp06-previously-known-as-amt-707",
+    "organ_tags": [
+      "kidneys",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "2720",
+    "name": "DMOT4039A (DMOT-4039A / RG7600 / RG 7600)",
+    "synonyms": [],
+    "name_full": "DMOT4039A (DMOT-4039A / RG7600 / RG 7600)",
+    "company": "Genentech Inc. (South San Francisco, CA, USA) / Roche, F. Hoffmann-La Roche Ltd. (Basel, Switzerland)",
+    "url": "https://www.adcreview.com/drugmap/dmot4039a-dmot-4039a-rg7600-rg-7600/",
+    "slug": "dmot4039a-dmot-4039a-rg7600-rg-7600",
+    "organ_tags": [
+      "ovaries",
+      "pancreas"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "17195",
+    "name": "DS-9606a",
+    "synonyms": [],
+    "name_full": "DS-9606a",
+    "company": "Daiichi Sankyo",
+    "url": "https://www.adcreview.com/drugmap/ds-9606a/",
+    "slug": "ds-9606a",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "6800",
+    "name": "EC2629",
+    "synonyms": [],
+    "name_full": "EC2629",
+    "company": "Endocyte",
+    "url": "https://www.adcreview.com/drugmap/ec2629/",
+    "slug": "ec2629",
+    "organ_tags": [
+      "breast",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "5375",
+    "name": "EDO-772P/B776",
+    "synonyms": [],
+    "name_full": "EDO-772P/B776",
+    "company": "Mundipharma EDO GmbH",
+    "url": "https://www.adcreview.com/drugmap/edo-772pb776/",
+    "slug": "edo-772pb776",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "20574",
+    "name": "Emiltatug Ledadotin",
+    "synonyms": [
+      "XMT-1660"
+    ],
+    "name_full": "Emiltatug Ledadotin | XMT-1660",
+    "company": "Mersana",
+    "url": "https://www.adcreview.com/drugmap/emiltatug-ledadotin-xmt-1660/",
+    "slug": "emiltatug-ledadotin-xmt-1660",
+    "organ_tags": [
+      "breast",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "6765",
+    "name": "Enapotamab vedotin",
+    "synonyms": [
+      "HuMax-AXL-ADC",
+      "AXL-107-MMAE"
+    ],
+    "name_full": "Enapotamab vedotin | HuMax-AXL-ADC | AXL-107-MMAE",
+    "company": "Genmab in collaboration with Seattle Genetics",
+    "url": "https://www.adcreview.com/drugmap/humax-axl-adc/",
+    "slug": "humax-axl-adc",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "1045",
+    "name": "Enfortumab Vedotin",
+    "synonyms": [
+      "Padcev",
+      "ASG-22ME",
+      "ASG-22MSE"
+    ],
+    "name_full": "Enfortumab Vedotin | Padcev | ASG-22ME | ASG-22MSE",
+    "company": "Astellas Pharma (Agensys) / Seattle Genetics",
+    "url": "https://www.adcreview.com/drugmap/asg-22me/",
+    "slug": "asg-22me",
+    "organ_tags": [
+      "bladder",
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "12108",
+    "name": "Epitumomab cituxetan",
+    "synonyms": [],
+    "name_full": "Epitumomab cituxetan",
+    "company": "",
+    "url": "https://www.adcreview.com/drugmap/epitumomab-cituxetan/",
+    "slug": "epitumomab-cituxetan",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "6898",
+    "name": "Farletuzumab Ecteribulin",
+    "synonyms": [
+      "MORAb-202"
+    ],
+    "name_full": "Farletuzumab Ecteribulin | MORAb-202",
+    "company": "Morphotek®, a subsidiary of Eisai Eisai Co Bristol Myers Squibb",
+    "url": "https://www.adcreview.com/drugmap/farletuzumab-ecteribulin-morab-202/",
+    "slug": "farletuzumab-ecteribulin-morab-202",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries",
+      "stomach"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "20919",
+    "name": "Felmetatug Vedotin",
+    "synonyms": [
+      "PF-08046048",
+      "SGN-B7H4V"
+    ],
+    "name_full": "Felmetatug Vedotin | PF-08046048 | SGN-B7H4V",
+    "company": "Pfizer (SeaGen)",
+    "url": "https://www.adcreview.com/drugmap/felmetatug-vedotin-pf-08046048-sgn-b7h4v/",
+    "slug": "felmetatug-vedotin-pf-08046048-sgn-b7h4v",
+    "organ_tags": [
+      "breast",
+      "ovaries",
+      "stomach"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "19055",
+    "name": "HBM9033",
+    "synonyms": [
+      "PF-08052666"
+    ],
+    "name_full": "HBM9033 | PF-08052666",
+    "company": "Harbour BioMed's Wholly-owned Subsidiary, Nona Biosciences MediLink Therapeutics Pfizer",
+    "url": "https://www.adcreview.com/drugmap/hbm9033/",
+    "slug": "hbm9033",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries",
+      "pancreas"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "6774",
+    "name": "HKT288 (CDH6-ADC)",
+    "synonyms": [],
+    "name_full": "HKT288 (CDH6-ADC)",
+    "company": "Novartis and ImmunoGen",
+    "url": "https://www.adcreview.com/drugmap/hkt288-cdh6-adc/",
+    "slug": "hkt288-cdh6-adc",
+    "organ_tags": [
+      "kidneys",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "7490",
+    "name": "IMAB027-vcMMAE",
+    "synonyms": [],
+    "name_full": "IMAB027-vcMMAE",
+    "company": "Ganymed Pharmaceuticals | Astellas",
+    "url": "https://www.adcreview.com/drugmap/imab027-vcmmae/",
+    "slug": "imab027-vcmmae",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "1029",
+    "name": "IMGN 289",
+    "synonyms": [],
+    "name_full": "IMGN 289",
+    "company": "ImmungoGen",
+    "url": "https://www.adcreview.com/drugmap/imgn-289/",
+    "slug": "imgn-289",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "1030",
+    "name": "IMGN-388",
+    "synonyms": [],
+    "name_full": "IMGN-388",
+    "company": "ImmunoGen",
+    "url": "https://www.adcreview.com/drugmap/imgn-388/",
+    "slug": "imgn-388",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "1052",
+    "name": "Indusatumab Vedotin",
+    "synonyms": [
+      "MLN-0264",
+      "TAK-264"
+    ],
+    "name_full": "Indusatumab Vedotin | MLN-0264 | TAK-264",
+    "company": "Takeda / Millennium Pharmaceuticals",
+    "url": "https://www.adcreview.com/drugmap/indusatumab-vedotin-mln-0264/",
+    "slug": "indusatumab-vedotin-mln-0264",
+    "organ_tags": [
+      "colon",
+      "esophagus",
+      "lg_intestine",
+      "lungs",
+      "mesentery",
+      "pancreas",
+      "prostate",
+      "rectum",
+      "skin",
+      "sm_intestine",
+      "stomach",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "13059",
+    "name": "IPH43",
+    "synonyms": [],
+    "name_full": "IPH43",
+    "company": "Innate Pharma in collaboration with AstraZeneca",
+    "url": "https://www.adcreview.com/drugmap/iph43/",
+    "slug": "iph43",
+    "organ_tags": [
+      "ovaries",
+      "prostate",
+      "ureter",
+      "urethra"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "1037",
+    "name": "Lifastuzumab Vedotin",
+    "synonyms": [
+      "RG-7599",
+      "DNIB0600A"
+    ],
+    "name_full": "Lifastuzumab Vedotin | RG-7599 | DNIB0600A",
+    "company": "Roche, F. Hoffmann-La Roche / Genentech",
+    "url": "https://www.adcreview.com/drugmap/lifastuzumab-vedotin-anti-napi2b-adc-rg-7599-dnib-0600-a/",
+    "slug": "lifastuzumab-vedotin-anti-napi2b-adc-rg-7599-dnib-0600-a",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "7091",
+    "name": "Luveltamab Tazevibulin - SΤRO-002 - Luvelta",
+    "synonyms": [],
+    "name_full": "Luveltamab Tazevibulin - SΤRO-002 - Luvelta",
+    "company": "Sutro Biopharma",
+    "url": "https://www.adcreview.com/drugmap/luveltamab-tazevibulin-s%cf%84ro-002/",
+    "slug": "luveltamab-tazevibulin-s%cf%84ro-002",
+    "organ_tags": [
+      "ovaries",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "ovaries",
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "6791",
+    "name": "Mecbotamab Vedotin",
+    "synonyms": [
+      "BA3011",
+      "CAB-Axl-ADC",
+      "CAB-anti-Axl-ADC"
+    ],
+    "name_full": "Mecbotamab Vedotin | BA3011 | CAB-Axl-ADC | CAB-anti-Axl-ADC",
+    "company": "BioAtla in collaboration with Sinobioway Biomedicine",
+    "url": "https://www.adcreview.com/drugmap/cab-axl-adc-cab-anti-axl-adc/",
+    "slug": "cab-axl-adc-cab-anti-axl-adc",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "esophagus",
+      "liver",
+      "lungs",
+      "lymphatic_system",
+      "melanocytes",
+      "ovaries",
+      "pancreas"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "1066",
+    "name": "MEDI-547",
+    "synonyms": [],
+    "name_full": "MEDI-547",
+    "company": "MedImmune",
+    "url": "https://www.adcreview.com/drugmap/medi-547/",
+    "slug": "medi-547",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "1026",
+    "name": "Mirvetuximab Soravtansine",
+    "synonyms": [
+      "IMGN-853",
+      "Elahere"
+    ],
+    "name_full": "Mirvetuximab Soravtansine | IMGN-853 | Elahere",
+    "company": "AbbVie ImmunoGen (Cambridge MA USA)",
+    "url": "https://www.adcreview.com/drugmap/mirvetuximab-soravtansine-imgn-853/",
+    "slug": "mirvetuximab-soravtansine-imgn-853",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "15982",
+    "name": "Misitatug Blivedotin",
+    "synonyms": [
+      "RC88"
+    ],
+    "name_full": "Misitatug Blivedotin | RC88",
+    "company": "Remegen Biosciences (Shandong China), Yantai Rongchang Biological Engineering (manufactured by MabPlex)",
+    "url": "https://www.adcreview.com/drugmap/rc88/",
+    "slug": "rc88",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "17128",
+    "name": "Mocertatug Rezetecan",
+    "synonyms": [
+      "Mo-Rez",
+      "HS-20089",
+      "GSK5733584"
+    ],
+    "name_full": "Mocertatug Rezetecan | Mo-Rez | HS-20089 | GSK5733584",
+    "company": "Hansoh BioMedical R&D Company ( Shanghai Hansoh Biomedical Co., Ltd and GSK",
+    "url": "https://www.adcreview.com/drugmap/hs-20089-is-a-tubulin-inhibitor-b7-h4-targeted-antibody-drug-conjugate/",
+    "slug": "hs-20089-is-a-tubulin-inhibitor-b7-h4-targeted-antibody-drug-conjugate",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "16533",
+    "name": "Opugotamig olatansine",
+    "synonyms": [
+      "IMGN-151",
+      "IMGN151"
+    ],
+    "name_full": "Opugotamig olatansine | IMGN-151 | IMGN151",
+    "company": "ImmunoGen is now part of AbbVie",
+    "url": "https://www.adcreview.com/drugmap/imgn151/",
+    "slug": "imgn151",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "1042",
+    "name": "PF 06263507 (A1-mcMMAF",
+    "synonyms": [
+      "Anti-5T4 monoclonal antibody",
+      "PF-06263507",
+      "PF06263507)"
+    ],
+    "name_full": "PF 06263507 (A1-mcMMAF | Anti-5T4 monoclonal antibody | PF-06263507 | PF06263507)",
+    "company": "Oxford BioMedica; Pfizer (Wyeth)",
+    "url": "https://www.adcreview.com/drugmap/pf-06263507/",
+    "slug": "pf-06263507",
+    "organ_tags": [
+      "bladder",
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "5626",
+    "name": "PF-06647263 (anti-EFNA4-ADC)",
+    "synonyms": [],
+    "name_full": "PF-06647263 (anti-EFNA4-ADC)",
+    "company": "Pfizer",
+    "url": "https://www.adcreview.com/drugmap/pf-06647263/",
+    "slug": "pf-06647263",
+    "organ_tags": [
+      "breast",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "5624",
+    "name": "PF-06650808 (Anti-NOTCH3 ADC)",
+    "synonyms": [],
+    "name_full": "PF-06650808 (Anti-NOTCH3 ADC)",
+    "company": "Pfizer (Wyeth)",
+    "url": "https://www.adcreview.com/drugmap/pf-06650808/",
+    "slug": "pf-06650808",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "6737",
+    "name": "PF-06664178",
+    "synonyms": [
+      "PF06664178",
+      "PF 06664178"
+    ],
+    "name_full": "PF-06664178 | PF06664178 | PF 06664178",
+    "company": "Pfizer (Wyeth)",
+    "url": "https://www.adcreview.com/drugmap/pf-06664178-pf06664178-pf-06664178/",
+    "slug": "pf-06664178-pf06664178-pf-06664178",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "20966",
+    "name": "PLB-002",
+    "synonyms": [],
+    "name_full": "PLB-002",
+    "company": "Primelink Biotherapeutics (Suzhou) Co",
+    "url": "https://www.adcreview.com/drugmap/plb-002/",
+    "slug": "plb-002",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "16764",
+    "name": "PRO1184",
+    "synonyms": [],
+    "name_full": "PRO1184",
+    "company": "ProfoundBio",
+    "url": "https://www.adcreview.com/drugmap/pro1184-adc-is-directed-toward-folr1/",
+    "slug": "pro1184-adc-is-directed-toward-folr1",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "20518",
+    "name": "PTK7-CPT113",
+    "synonyms": [],
+    "name_full": "PTK7-CPT113",
+    "company": "Aadi Bioscience WuXi Biologics, and Hangzhou DAC Biotechnology,",
+    "url": "https://www.adcreview.com/drugmap/ptk7-cpt113/",
+    "slug": "ptk7-cpt113",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "6755",
+    "name": "Q5-Drug Conjugate",
+    "synonyms": [],
+    "name_full": "Q5-Drug Conjugate",
+    "company": "Alteogen",
+    "url": "https://www.adcreview.com/drugmap/q5-drug-conjugate/",
+    "slug": "q5-drug-conjugate",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "22382",
+    "name": "QLS5132",
+    "synonyms": [],
+    "name_full": "QLS5132",
+    "company": "Qilu Pharmaceutical Co.",
+    "url": "https://www.adcreview.com/drugmap/qls5132/",
+    "slug": "qls5132",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "18874",
+    "name": "Raludotatug Deruxtecan",
+    "synonyms": [
+      "DS-6000a R-DXd"
+    ],
+    "name_full": "Raludotatug Deruxtecan | DS-6000a R-DXd",
+    "company": "Daiichi Sankyo and Merck & Co (known as MSD outside of the United States and Canada).",
+    "url": "https://www.adcreview.com/drugmap/raludotatug-deruxtecan-ds-6000a-r-dxd/",
+    "slug": "raludotatug-deruxtecan-ds-6000a-r-dxd",
+    "organ_tags": [
+      "kidneys",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "1038",
+    "name": "RG-7841 (Anti-Ly6E / DLYE5953A)",
+    "synonyms": [],
+    "name_full": "RG-7841 (Anti-Ly6E / DLYE5953A)",
+    "company": "Genentech/Roche (in collaboration with Seattle Genetic)",
+    "url": "https://www.adcreview.com/drugmap/rg-7841/",
+    "slug": "rg-7841",
+    "organ_tags": [
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "18570",
+    "name": "Rinatabart Sesutecan",
+    "synonyms": [
+      "PRO1184",
+      "Rina-S"
+    ],
+    "name_full": "Rinatabart Sesutecan | PRO1184 | Rina-S",
+    "company": "ProfoundBio Genmab",
+    "url": "https://www.adcreview.com/drugmap/rinatabart-sesutecan-pro1184/",
+    "slug": "rinatabart-sesutecan-pro1184",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "14492",
+    "name": "RN927C",
+    "synonyms": [],
+    "name_full": "RN927C",
+    "company": "Pfizer/Rinat",
+    "url": "https://www.adcreview.com/drugmap/rn927c/",
+    "slug": "rn927c",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries",
+      "pancreas"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "14509",
+    "name": "Sacituzumab Tirumotecan",
+    "synonyms": [
+      "SKB264",
+      "MK-2870"
+    ],
+    "name_full": "Sacituzumab Tirumotecan | SKB264 | MK-2870",
+    "company": "KLUS Pharma, a subsidiary of Kelun Pharmaceuticals (Sichuan Chengdu, China). Merck & Co / MSD",
+    "url": "https://www.adcreview.com/drugmap/skb264-adc/",
+    "slug": "skb264-adc",
+    "organ_tags": [
+      "bladder",
+      "breast",
+      "lungs",
+      "ovaries",
+      "pancreas"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "1054",
+    "name": "SAR 566658 (SAR566658)",
+    "synonyms": [],
+    "name_full": "SAR 566658 (SAR566658)",
+    "company": "Sanofi; ImmunoGen",
+    "url": "https://www.adcreview.com/drugmap/sar-566658/",
+    "slug": "sar-566658",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "ovaries",
+      "prostate",
+      "skin"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "13968",
+    "name": "Satumomab Penditide",
+    "synonyms": [
+      "OncoScint® CR/OV"
+    ],
+    "name_full": "Satumomab Penditide | OncoScint® CR/OV",
+    "company": "Cytogen Corporation (Primary) Chiron Theraoeutics (Europe) Knoll Pharmaceuticals (Europe) Manufacturer: Lonza Biologics",
+    "url": "https://www.adcreview.com/drugmap/satumomab-penditide-oncoscint-cr-ov/",
+    "slug": "satumomab-penditide-oncoscint-cr-ov",
+    "organ_tags": [
+      "colon",
+      "lungs",
+      "ovaries",
+      "pancreas"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "16280",
+    "name": "SGN-B7H4V",
+    "synonyms": [],
+    "name_full": "SGN-B7H4V",
+    "company": "Seagen",
+    "url": "https://www.adcreview.com/drugmap/sgn-b7h4v/",
+    "slug": "sgn-b7h4v",
+    "organ_tags": [
+      "breast",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "1032",
+    "name": "Sofituzumab vedotin",
+    "synonyms": [
+      "Anti-MUC16 ADC",
+      "RG7458",
+      "DMUC5754A"
+    ],
+    "name_full": "Sofituzumab vedotin | Anti-MUC16 ADC | RG7458 | DMUC5754A",
+    "company": "Roche, F. Hoffmann-La Roche Ltd. (Basel Switzerland)",
+    "url": "https://www.adcreview.com/drugmap/sofituzumab-vedotin-anti-muc16-adc-rg-7458-dmuc-5754-a/",
+    "slug": "sofituzumab-vedotin-anti-muc16-adc-rg-7458-dmuc-5754-a",
+    "organ_tags": [
+      "ovaries",
+      "pancreas"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "7478",
+    "name": "ST1",
+    "synonyms": [],
+    "name_full": "ST1",
+    "company": "Siamab Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/st1/",
+    "slug": "st1",
+    "organ_tags": [
+      "colon",
+      "ovaries",
+      "pancreas",
+      "prostate"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "12031",
+    "name": "Tamrintamab Pamozirine",
+    "synonyms": [
+      "SC-003",
+      "Anti-DPEP3 ADC"
+    ],
+    "name_full": "Tamrintamab Pamozirine | SC-003 | Anti-DPEP3 ADC",
+    "company": "AbbVie Stemcentrx LLC",
+    "url": "https://www.adcreview.com/drugmap/tamrintamab-pamozirin/",
+    "slug": "tamrintamab-pamozirin",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "1064",
+    "name": "Tisotumab Vedotin",
+    "synonyms": [
+      "Tivdak",
+      "HuMax®-TF-ADC"
+    ],
+    "name_full": "Tisotumab Vedotin | Tivdak | HuMax®-TF-ADC",
+    "company": "Co-developed by Genmab and Seattle Genetics",
+    "url": "https://www.adcreview.com/drugmap/tisotumab-vedotin-humax-tf-adc-humax-tf-adc-tf-011-mmae/",
+    "slug": "tisotumab-vedotin-humax-tf-adc-humax-tf-adc-tf-011-mmae",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "20408",
+    "name": "TORL-1-23",
+    "synonyms": [],
+    "name_full": "TORL-1-23",
+    "company": "TORL Biotherapeutics",
+    "url": "https://www.adcreview.com/drugmap/torl-1-23/",
+    "slug": "torl-1-23",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "18460",
+    "name": "Trastuzumab Envedotin",
+    "synonyms": [
+      "DP303c"
+    ],
+    "name_full": "Trastuzumab Envedotin | DP303c",
+    "company": "CSPC ZhongQi Pharmaceutical Technology Co.",
+    "url": "https://www.adcreview.com/drugmap/dp303c/",
+    "slug": "dp303c",
+    "organ_tags": [
+      "breast",
+      "ovaries",
+      "stomach"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "17130",
+    "name": "Trastuzumab Pamirtecan",
+    "synonyms": [
+      "DB-1303",
+      "BNT323"
+    ],
+    "name_full": "Trastuzumab Pamirtecan | DB-1303 | BNT323",
+    "company": "Duality Biologics in collaboration with BionTech",
+    "url": "https://www.adcreview.com/drugmap/db-1303/",
+    "slug": "db-1303",
+    "organ_tags": [
+      "ovaries",
+      "ureter",
+      "urethra",
+      "uterus"
+    ],
+    "gyn_site_tags": [
+      "ovaries",
+      "uterus"
+    ]
+  },
+  {
+    "itemid": "20719",
+    "name": "TUB-040",
+    "synonyms": [],
+    "name_full": "TUB-040",
+    "company": "Tubulis",
+    "url": "https://www.adcreview.com/drugmap/tub-040/",
+    "slug": "tub-040",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "6773",
+    "name": "Upifitamab Rilsodotin",
+    "synonyms": [
+      "XMT-1536",
+      "UpRi"
+    ],
+    "name_full": "Upifitamab Rilsodotin | XMT-1536 | UpRi",
+    "company": "Mersana Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/xmt-1536-upifitamab-rilsodotin-upri/",
+    "slug": "xmt-1536-upifitamab-rilsodotin-upri",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "2015",
+    "name": "VYNFINIT®",
+    "synonyms": [
+      "Vintafolide (EC145/MK 8109)"
+    ],
+    "name_full": "VYNFINIT® | Vintafolide (EC145/MK 8109)",
+    "company": "Endocyte, Merck/MSD",
+    "url": "https://www.adcreview.com/drugmap/vintafolide-ec145-mk/",
+    "slug": "vintafolide-ec145-mk",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "6767",
+    "name": "ZV05-ADC (5T4-MMAF ADC)",
+    "synonyms": [
+      "ZV05-mcMMAF",
+      "ZV0501"
+    ],
+    "name_full": "ZV05-ADC (5T4-MMAF ADC) | ZV05-mcMMAF | ZV0501",
+    "company": "Zova Biotherapeutics (Zova Bio); Concortis Biotherapeutics (a subsidiary of Sorrento Therapeutics)",
+    "url": "https://www.adcreview.com/drugmap/zv05-adc-5t4-mmaf-adc/",
+    "slug": "zv05-adc-5t4-mmaf-adc",
+    "organ_tags": [
+      "colon",
+      "kidneys",
+      "lungs",
+      "ovaries",
+      "pancreas",
+      "stomach"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  },
+  {
+    "itemid": "19555",
+    "name": "ZW191",
+    "synonyms": [],
+    "name_full": "ZW191",
+    "company": "Zymeworks",
+    "url": "https://www.adcreview.com/drugmap/zw191/",
+    "slug": "zw191",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "gyn_site_tags": [
+      "ovaries"
+    ]
+  }
+]

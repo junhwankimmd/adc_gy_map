@@ -1,0 +1,6505 @@
+[
+  {
+    "itemid": "1026",
+    "name": "Mirvetuximab Soravtansine",
+    "synonyms": [
+      "IMGN-853",
+      "Elahere"
+    ],
+    "name_full": "Mirvetuximab Soravtansine | IMGN-853 | Elahere",
+    "company": "AbbVie ImmunoGen (Cambridge MA USA)",
+    "url": "https://www.adcreview.com/drugmap/mirvetuximab-soravtansine-imgn-853/",
+    "slug": "mirvetuximab-soravtansine-imgn-853",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 19,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING",
+      "COMPLETED",
+      "RECRUITING",
+      "UNKNOWN",
+      "WITHDRAWN"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2",
+      "PHASE3"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07218809",
+        "title": "AZD5335 vs. Mirvetuximab Soravtansine in FRα-high and AZD5335 vs. Chemotherapy in FRα-low Platinum-resistant Ovarian Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2025-12-29",
+        "sponsor": "AstraZeneca",
+        "conditions": [
+          "Epithelial Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Epithelial Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "AZD5335",
+          "Mirvetuximab Soravtansine (MIRV)",
+          "Paclitaxel",
+          "Pegylated liposomal Doxorubicin (PLD)",
+          "Topotecan"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06890338",
+        "title": "A Study to Assess Anti-Tumor Activity of Intravenously (IV) Infused Carboplatin With Mirvetuximab Soravtansine in Participants With Newly Diagnosed Folate Receptor Alpha (FRα)Expressing Advanced-Stage Serous Epithelial Ovarian, Fallopian Tube or Primary Peritoneal Cancer.",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2025-11-21",
+        "sponsor": "AbbVie",
+        "conditions": [
+          "Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer",
+          "Primary Peritoneal Cancer",
+          "Neoadjuvant"
+        ],
+        "gyn_conditions": [
+          "Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Carboplatin",
+          "Mirvetuximab Soravtansine",
+          "Bevacizumab"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT07059845",
+        "title": "A Study to Assess Adverse Events and Change in Disease Activity of Multiple Treatment Combinations With Intravenous Mirvetuximab Soravtansine in Adult Participants With Ovarian Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2025-11-13",
+        "sponsor": "AbbVie",
+        "conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab Soravtansine",
+          "Bevacizumab",
+          "Carboplatin"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06682988",
+        "title": "A Study to Assess Adverse Events and Change in Disease Activity in Participants With Platinum-Resistant Advanced High-Grade Epithelial Ovarian, Primary Peritoneal, or Fallopian Tube Cancers With High Folate Receptor-Alpha Expression Treated With Intravenously (IV) Infused Mirvetuximab Soravtansine",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2025-05-28",
+        "sponsor": "AbbVie",
+        "conditions": [
+          "Advanced High-Grade Epithelial Ovarian Cancer",
+          "Primary Peritoneal Cancer",
+          "Fallopian Tube Cancers"
+        ],
+        "gyn_conditions": [
+          "Advanced High-Grade Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancers",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab Soravtansine"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06365853",
+        "title": "A Study of Ocular Toxicity Evaluation and Mitigation During Treatment With Mirvetuximab Soravtansine in Participants With Recurrent Ovarian Cancer With High Folate Receptor-Alpha Expression",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2024-07-29",
+        "sponsor": "AbbVie",
+        "conditions": [
+          "Recurrent Ovarian Cancer",
+          "Folate Receptor-Alpha Positive"
+        ],
+        "gyn_conditions": [
+          "Recurrent Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab Soravtansine",
+          "Lubricating Eye Drops",
+          "Prednisolone acetate ophthalmic suspension 1% eye drops",
+          "Brimonidine tartrate ophthalmic solution eye drops"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT05887609",
+        "title": "An Evaluation of Maintenance Therapy Combination Mirvetuximab Soravtansine and Olaparib",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2023-10-03",
+        "sponsor": "University of Colorado, Denver",
+        "conditions": [
+          "Ovary Cancer",
+          "Peritoneal Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_conditions": [
+          "Fallopian Tube Cancer",
+          "Ovary Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab Soravtansine-gynx",
+          "Olaparib"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT05445778",
+        "title": "Mirvetuximab Soravtansine With Bevacizumab Versus Bevacizumab as Maintenance in Platinum-sensitive Epithelial Ovarian, Fallopian Tube, or Peritoneal Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2023-03-15",
+        "sponsor": "AbbVie",
+        "conditions": [
+          "Ovarian Cancer",
+          "Peritoneal Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_conditions": [
+          "Fallopian Tube Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab soravtansine plus Bevacizumab",
+          "Bevacizumab"
+        ],
+        "pmids": [
+          "39082675"
+        ]
+      },
+      {
+        "nct": "NCT05456685",
+        "title": "Mirvetuximab Soravtansine (MIRV) With Carboplatin in Second-line Treatment of Folate Receptor Alpha (FRα) Expressing, Platinum-sensitive Epithelial Ovarian Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2022-09-28",
+        "sponsor": "AbbVie",
+        "conditions": [
+          "High Grade Ovarian Cancer",
+          "Primary Peritoneal Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_conditions": [
+          "Fallopian Tube Cancer",
+          "High Grade Ovarian Cancer",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab soravtansine",
+          "Carboplatin"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT05622890",
+        "title": "A Single-arm Clinical Trial of IMGN853 in Chinese Adult Patients With Platinum-resistant, Epithelial Ovarian Cancer",
+        "status": "UNKNOWN",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2022-08-18",
+        "sponsor": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
+        "conditions": [
+          "Epithelial Ovarian Cancer",
+          "Peritoneal Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_conditions": [
+          "Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab Soravtansine"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT05041257",
+        "title": "Mirvetuximab Soravtansine Monotherapy in Platinum-Sensitive Epithelial, Peritoneal, and Fallopian Tube Cancers",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2021-10-19",
+        "sponsor": "AbbVie",
+        "conditions": [
+          "Ovarian Cancer",
+          "Peritoneal Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_conditions": [
+          "Fallopian Tube Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab soravtansine"
+        ],
+        "pmids": [
+          "39617145"
+        ]
+      },
+      {
+        "nct": "NCT04274426",
+        "title": "Mirvetuximab Soravtansine (IMGN853), in Folate Receptor Alpha (FRα) High Recurrent Ovarian Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2021-10-13",
+        "sponsor": "AGO Research GmbH",
+        "conditions": [
+          "Recurrent Epithelial Ovarian, Fallopian or Peritoneal Carcinoma"
+        ],
+        "gyn_conditions": [
+          "Recurrent Epithelial Ovarian, Fallopian or Peritoneal Carcinoma"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Carboplatin",
+          "Pegylated liposomal doxorubicin (PLD)",
+          "Gemcitabine",
+          "Paclitaxel",
+          "Mirvetuximab Soravtansine"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT04606914",
+        "title": "Study of Carboplatin and Mirvetuximab Soravtansine in First-Line Treatment of Patients Receiving Neoadjuvant Chemotherapy With Advanced-Stage Ovarian, Fallopian Tube or Primary Peritoneal Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2021-05-27",
+        "sponsor": "University of Alabama at Birmingham",
+        "conditions": [
+          "Ovarian Cancer",
+          "Fallopian Tube",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_conditions": [
+          "Fallopian Tube",
+          "Ovarian Cancer",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "mirvetuximab soravtansine (MIRV; IMGN853)"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT04296890",
+        "title": "A Study of Mirvetuximab Soravtansine in Platinum-Resistant, Advanced High-Grade Epithelial Ovarian, Primary Peritoneal, or Fallopian Tube Cancers With High Folate Receptor-Alpha Expression",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2020-07-23",
+        "sponsor": "ImmunoGen, Inc.",
+        "conditions": [
+          "Epithelial Ovarian Cancer",
+          "Peritoneal Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_conditions": [
+          "Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab Soravtansine"
+        ],
+        "pmids": [
+          "36716407",
+          "37212825",
+          "38858103"
+        ]
+      },
+      {
+        "nct": "NCT04209855",
+        "title": "A Study of Mirvetuximab Soravtansine vs. Investigator's Choice (IC) of Chemotherapy in Platinum-Resistant, Advanced High-Grade Epithelial Ovarian, Primary Peritoneal, or Fallopian Tube Cancers With High Folate Receptor-Alpha (FRα) Expression",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2019-12-31",
+        "sponsor": "AbbVie",
+        "conditions": [
+          "Epithelial Ovarian Cancer",
+          "Peritoneal Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_conditions": [
+          "Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab Soravtansine",
+          "Paclitaxel",
+          "Topotecan",
+          "Pegylated liposomal doxorubicin"
+        ],
+        "pmids": [
+          "38055253",
+          "40179908"
+        ]
+      },
+      {
+        "nct": "NCT03836157",
+        "title": "Mirvetuximab Soravtansine (IMGN853) and Bevacizumab in Patients With Endometrial Cancer",
+        "status": "WITHDRAWN",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2019-05-31",
+        "sponsor": "University of Oklahoma",
+        "conditions": [
+          "Endometrial Cancer",
+          "Endometrial Adenocarcinoma",
+          "Endometrial Serous Adenocarcinoma",
+          "Endometrial Clear Cell Adenocarcinoma"
+        ],
+        "gyn_conditions": [
+          "Endometrial Adenocarcinoma",
+          "Endometrial Cancer",
+          "Endometrial Clear Cell Adenocarcinoma",
+          "Endometrial Serous Adenocarcinoma"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "Mirvetuximab Soravtansine",
+          "Bevacizumab"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT03552471",
+        "title": "Mirvetuximab Soravtansine and Rucaparib Camsylate in Treating Participants With Recurrent Endometrial, Ovarian, Fallopian Tube or Primary Peritoneal Cancer",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2018-07-12",
+        "sponsor": "Ohio State University Comprehensive Cancer Center",
+        "conditions": [
+          "BRCA1 Gene Mutation",
+          "BRCA2 Gene Mutation",
+          "Folate Receptor Alpha Positive",
+          "Recurrent Fallopian Tube Carcinoma",
+          "Recurrent Ovarian Carcinoma",
+          "Recurrent Primary Peritoneal Carcinoma",
+          "Recurrent Uterine Corpus Carcinoma",
+          "Recurrent Uterine Serous Carcinoma",
+          "Recurrent Uterine Carcinosarcoma",
+          "Platinum Resistant Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Platinum Resistant Ovarian Cancer",
+          "Recurrent Fallopian Tube Carcinoma",
+          "Recurrent Ovarian Carcinoma",
+          "Recurrent Primary Peritoneal Carcinoma",
+          "Recurrent Uterine Carcinosarcoma",
+          "Recurrent Uterine Corpus Carcinoma",
+          "Recurrent Uterine Serous Carcinoma"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "Laboratory Biomarker Analysis",
+          "Mirvetuximab Soravtansine",
+          "Pharmacokinetic Study",
+          "Rucaparib Camsylate"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT02996825",
+        "title": "Mirvetuximab Soravtansine and Gemcitabine Hydrochloride in Treating Patients With FRalpha-Positive Recurrent Ovarian, Primary Peritoneal, Fallopian Tube, Endometrial, or Triple Negative Breast Cancer",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2017-03-22",
+        "sponsor": "City of Hope Medical Center",
+        "conditions": [
+          "Recurrent Breast Carcinoma",
+          "Recurrent Fallopian Tube Carcinoma",
+          "Recurrent Ovarian Carcinoma",
+          "Recurrent Primary Peritoneal Carcinoma",
+          "Recurrent Uterine Corpus Carcinoma",
+          "Triple-Negative Breast Carcinoma"
+        ],
+        "gyn_conditions": [
+          "Recurrent Fallopian Tube Carcinoma",
+          "Recurrent Ovarian Carcinoma",
+          "Recurrent Primary Peritoneal Carcinoma",
+          "Recurrent Uterine Corpus Carcinoma"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "Gemcitabine",
+          "Gemcitabine Hydrochloride",
+          "Laboratory Biomarker Analysis",
+          "Mirvetuximab Soravtansine",
+          "Pharmacological Study"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT02631876",
+        "title": "A Study of Mirvetuximab Soravtansine vs. Investigator's Choice of Chemotherapy in Women With Folate Receptor (FR) Alpha Positive Advanced Epithelial Ovarian Cancer (EOC), Primary Peritoneal or Fallopian Tube Cancer",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2016-03-02",
+        "sponsor": "ImmunoGen, Inc.",
+        "conditions": [
+          "Epithelial Ovarian Cancer",
+          "Primary Peritoneal Carcinoma",
+          "Fallopian Tube Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer",
+          "Ovarian Cancer",
+          "Primary Peritoneal Carcinoma"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab soravtansine",
+          "Paclitaxel",
+          "Pegylated liposomal doxorubicin",
+          "Topotecan"
+        ],
+        "pmids": [
+          "33667670"
+        ]
+      },
+      {
+        "nct": "NCT02606305",
+        "title": "Study of Mirvetuximab Soravtansine in Combination With Bevacizumab, Carboplatin, Pegylated Liposomal Doxorubicin, Pembrolizumab, or Bevacizumab + Carboplatin in Participants With Folate Receptor Alpha (FRα) Positive Advanced Epithelial Ovarian Cancer, Primary Peritoneal, or Fallopian Tube Cancer",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2016-03-02",
+        "sponsor": "ImmunoGen, Inc.",
+        "conditions": [
+          "Epithelial Ovarian Cancer",
+          "Primary Peritoneal Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_conditions": [
+          "Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mirvetuximab soravtansine",
+          "Bevacizumab",
+          "Carboplatin",
+          "Pegylated Liposomal Doxorubicin",
+          "Pembrolizumab"
+        ],
+        "pmids": [
+          "40700855"
+        ]
+      }
+    ],
+    "trial_pmids": [
+      "33667670",
+      "36716407",
+      "37212825",
+      "38055253",
+      "38858103",
+      "39082675",
+      "39617145",
+      "40179908",
+      "40700855"
+    ]
+  },
+  {
+    "itemid": "14509",
+    "name": "Sacituzumab Tirumotecan",
+    "synonyms": [
+      "SKB264",
+      "MK-2870"
+    ],
+    "name_full": "Sacituzumab Tirumotecan | SKB264 | MK-2870",
+    "company": "KLUS Pharma, a subsidiary of Kelun Pharmaceuticals (Sichuan Chengdu, China). Merck & Co / MSD",
+    "url": "https://www.adcreview.com/drugmap/skb264-adc/",
+    "slug": "skb264-adc",
+    "organ_tags": [
+      "bladder",
+      "breast",
+      "lungs",
+      "ovaries",
+      "pancreas"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 10,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING",
+      "NOT_YET_RECRUITING",
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2",
+      "PHASE3"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07318558",
+        "title": "A Clinical Trial of Sac-TMT in People With Non-HRD Positive Advanced Ovarian Cancer (MK-2870-021)",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2026-02-16",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "conditions": [
+          "Ovarian Neoplasms",
+          "Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer",
+          "Ovarian Neoplasms"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Sacituzumab tirumotecan",
+          "Bevacizumab",
+          "Rescue Medications"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT07348861",
+        "title": "A Phase II Study of Neoadjuvant Sacituzumab Tirumotecan in Combination With Iparomlimab and Tuvonralimab in Locally Advanced Cervical Cancer",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2026-02-01",
+        "sponsor": "Zheng Min",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "Sacituzumab tirumotecan plus Iparomlimab"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT07256236",
+        "title": "SKB264 Plus QL1706 in Recurrent or Metastatic Cervical Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2026-01-28",
+        "sponsor": "Fujian Cancer Hospital",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "Sacituzumab tirumotecan",
+          "QL1706"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT07216703",
+        "title": "A Clinical Study of Sacituzumab Tirumotecan (MK-2870) in Combination With Pembrolizumab (MK-3475) as First-line Maintenance Treatment of Cervical Cancer (MK-2870-036/TroFuse-036/GOG-3123/ENGOT-cx22)",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2026-01-19",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "Pembrolizumab",
+          "Sacituzumab Tirumotecan",
+          "Bevacizumab",
+          "Paclitaxel",
+          "Cisplatin",
+          "Carboplatin",
+          "Rescue Medications"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT07314619",
+        "title": "Prospective, Multicenter, Single-Arm, Phase Ⅱ Clinical Study on the Efficacy and Safety of Sacituzumab Tirumotecan Combined With Bevacizumab in Platinum-Resistant Recurrent Ovarian Cancer",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2025-12-30",
+        "sponsor": "The First Affiliated Hospital of Zhengzhou University",
+        "conditions": [
+          "Platinum-resistant Recurrent Ovarian Cancer (PROC)"
+        ],
+        "gyn_conditions": [
+          "Platinum-resistant Recurrent Ovarian Cancer (PROC)"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Sacituzumab Tirumotecan Combined with Bevacizumab"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06952504",
+        "title": "A Study to Compare Sacituzumab Tirumotecan (MK-2870) in Combination With Pembrolizumab (MK-3475) Versus Pembrolizumab Alone as Treatment in Participants With Mismatch Repair Proficient Endometrial Cancer (MK-2870-033/TroFuse-033/GOG-3119/ENGOT-en29)",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2025-05-21",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "Pembrolizumab",
+          "Carboplatin",
+          "Paclitaxel",
+          "Docetaxel",
+          "Sacituzumab Tirumotecan"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06824467",
+        "title": "A Study to Evaluate the Efficacy and Safety of Sacituzumab Tirumotecan (MK-2870) Maintenance Treatment Versus Standard of Care in Participants With Platinum-sensitive Recurrent Ovarian Cancer (MK-2870-022/TroFuse-022/ENGOT-ov84/GOG-3103)",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2025-04-09",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "conditions": [
+          "Ovarian Cancer",
+          "Fallopian Tube Cancer",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_conditions": [
+          "Fallopian Tube Cancer",
+          "Ovarian Cancer",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Sacituzumab tirumotecan",
+          "Bevacizumab",
+          "H1 receptor antagonist",
+          "H2 receptor antagonist",
+          "Acetaminophen (or equivalent)",
+          "Dexamethasone (or equivalent)",
+          "Steroid mouthwash (dexamethasone or equivalent)"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06459180",
+        "title": "A Study to Compare Sacituzumab Tirumotecan (MK-2870) Monotherapy Versus Treatment of Physician's Choice as Second-line Treatment for Participants With Recurrent or Metastatic Cervical Cancer (MK-2870-020/TroFuse-020/Gog-3101/ENGOT-cx20)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2024-07-24",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "Sacituzumab Tirumotecan",
+          "Pemetrexed",
+          "Tisotumab Vedotin",
+          "Topotecan",
+          "Vinorelbine",
+          "Gemcitabine",
+          "Irinotecan"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06132958",
+        "title": "Sacituzumab Tirumotecan (MK-2870) in Post Platinum and Post Immunotherapy Endometrial Cancer (MK-2870-005)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2023-12-06",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "Sacituzumab tirumotecan",
+          "Doxorubicin",
+          "Paclitaxel",
+          "Nab-paclitaxel",
+          "Rescue medications"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT04152499",
+        "title": "Phase I-II, FIH, TROP2 ADC, Advanced Unresectable/Metastatic Solid Tumors, Refractory to Standard Therapies (KL264-01)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2020-02-28",
+        "sponsor": "Klus Pharma Inc.",
+        "conditions": [
+          "Epithelial Ovarian Cancer",
+          "Gastric Adenocarcinoma",
+          "Gastroesophageal Junction Adenocarcinoma",
+          "Urothelial Carcinoma",
+          "Non-Small Cell Lung Cancer",
+          "Small-Cell Lung Cancer",
+          "Endometrial Carcinoma",
+          "Head and Neck Squamous Cell Carcinoma",
+          "Breast Cancer",
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer",
+          "Endometrial Carcinoma",
+          "Epithelial Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "SKB264"
+        ],
+        "pmids": [
+          "40210967",
+          "40481574"
+        ]
+      }
+    ],
+    "trial_pmids": [
+      "40210967",
+      "40481574"
+    ]
+  },
+  {
+    "itemid": "1064",
+    "name": "Tisotumab Vedotin",
+    "synonyms": [
+      "Tivdak",
+      "HuMax®-TF-ADC"
+    ],
+    "name_full": "Tisotumab Vedotin | Tivdak | HuMax®-TF-ADC",
+    "company": "Co-developed by Genmab and Seattle Genetics",
+    "url": "https://www.adcreview.com/drugmap/tisotumab-vedotin-humax-tf-adc-humax-tf-adc-tf-011-mmae/",
+    "slug": "tisotumab-vedotin-humax-tf-adc-humax-tf-adc-tf-011-mmae",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "endometrial",
+      "ovarian",
+      "vulvar_vaginal"
+    ],
+    "n_gyn_trials": 10,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING",
+      "COMPLETED",
+      "NOT_YET_RECRUITING",
+      "RECRUITING",
+      "TERMINATED"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2",
+      "PHASE3",
+      "PHASE4"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07672782",
+        "title": "Tisotumab Vedotin in Squamous Cell Carcinoma of the Vulva",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2026-11",
+        "sponsor": "GOG Foundation",
+        "conditions": [
+          "Vulvar Carcinoma",
+          "Recurrent or Metastatic Vulvar Cancer",
+          "Squamous Cell Carcinoma Vulva"
+        ],
+        "gyn_conditions": [
+          "Recurrent or Metastatic Vulvar Cancer",
+          "Squamous Cell Carcinoma Vulva",
+          "Vulvar Carcinoma"
+        ],
+        "gyn_subtypes": [
+          "vulvar_vaginal"
+        ],
+        "interventions": [
+          "Tisotumab Vedotin"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06952660",
+        "title": "Ocular Assessments in Patients Treated With Tivdak® in Recurrent or Metastatic Cervical Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE4"
+        ],
+        "start": "2025-05-07",
+        "sponsor": "Pfizer",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "TIVDAK"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06459180",
+        "title": "A Study to Compare Sacituzumab Tirumotecan (MK-2870) Monotherapy Versus Treatment of Physician's Choice as Second-line Treatment for Participants With Recurrent or Metastatic Cervical Cancer (MK-2870-020/TroFuse-020/Gog-3101/ENGOT-cx20)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2024-07-24",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "Sacituzumab Tirumotecan",
+          "Pemetrexed",
+          "Tisotumab Vedotin",
+          "Topotecan",
+          "Vinorelbine",
+          "Gemcitabine",
+          "Irinotecan"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT04697628",
+        "title": "Tisotumab Vedotin vs Chemotherapy in Recurrent or Metastatic Cervical Cancer",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2021-02-22",
+        "sponsor": "Seagen, a wholly owned subsidiary of Pfizer",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "tisotumab vedotin",
+          "topotecan",
+          "vinorelbine",
+          "gemcitabine",
+          "irinotecan",
+          "pemetrexed"
+        ],
+        "pmids": [
+          "38959480",
+          "41644383"
+        ]
+      },
+      {
+        "nct": "NCT03657043",
+        "title": "A Study of Weekly Tisotumab Vedotin for Patients With Platinum-Resistant Ovarian Cancer With Safety Run-in (innovaTV 208)",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2019-03-20",
+        "sponsor": "Seagen Inc.",
+        "conditions": [
+          "Ovarian Cancer",
+          "Fallopian Tube Cancer",
+          "Peritoneal Cancer"
+        ],
+        "gyn_conditions": [
+          "Fallopian Tube Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "tisotumab vedotin"
+        ],
+        "pmids": [
+          "41044356"
+        ]
+      },
+      {
+        "nct": "NCT03786081",
+        "title": "Safety and Efficacy of Tisotumab Vedotin Monotherapy & in Combination With Other Cancer Agents in Subjects With Cervical Cancer",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2019-02-27",
+        "sponsor": "Seagen, a wholly owned subsidiary of Pfizer",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "Tisotumab Vedotin",
+          "Bevacizumab",
+          "Pembrolizumab",
+          "Carboplatin"
+        ],
+        "pmids": [
+          "37651655",
+          "42000372"
+        ]
+      },
+      {
+        "nct": "NCT03438396",
+        "title": "A Trial of Tisotumab Vedotin in Cervical Cancer",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2018-06-12",
+        "sponsor": "Seagen Inc.",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "tisotumab vedotin"
+        ],
+        "pmids": [
+          "33845034",
+          "37496366",
+          "41044356"
+        ]
+      },
+      {
+        "nct": "NCT03245736",
+        "title": "Tisotumab Vedotin Continued Treatment in Patients With Solid Tumors.",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2017-08-23",
+        "sponsor": "Seagen Inc.",
+        "conditions": [
+          "Ovary Cancer",
+          "Cervix Cancer",
+          "Endometrium Cancer",
+          "Bladder Cancer",
+          "Prostate Cancer",
+          "Esophagus Cancer",
+          "Lung Cancer, Nonsmall Cell",
+          "Squamous Cell Carcinoma of the Head and Neck"
+        ],
+        "gyn_conditions": [
+          "Cervix Cancer",
+          "Endometrium Cancer",
+          "Ovary Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "Tisotumab Vedotin"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT02552121",
+        "title": "Tisotumab Vedotin (HuMax®-TF-ADC) Safety Study in Patients With Solid Tumors",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2015-11-30",
+        "sponsor": "Seagen Inc.",
+        "conditions": [
+          "Ovary Cancer",
+          "Cervix Cancer",
+          "Endometrium Cancer",
+          "Bladder Cancer",
+          "Prostate Cancer (CRPC)",
+          "Esophagus Cancer",
+          "Lung Cancer (NSCLC)"
+        ],
+        "gyn_conditions": [
+          "Cervix Cancer",
+          "Endometrium Cancer",
+          "Ovary Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "Tisotumab vedotin (HuMax-TF-ADC)"
+        ],
+        "pmids": [
+          "37496366",
+          "41044356"
+        ]
+      },
+      {
+        "nct": "NCT02001623",
+        "title": "Tisotumab Vedotin (HuMax®-TF-ADC) Safety Study in Patients With Solid Tumors",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2013-11-30",
+        "sponsor": "Seagen Inc.",
+        "conditions": [
+          "Ovary Cancer",
+          "Cervix Cancer",
+          "Endometrium Cancer",
+          "Bladder Cancer",
+          "Prostate Cancer (CRPC)",
+          "Esophagus Cancer",
+          "Lung Cancer(NSCLC)",
+          "Squamous Cell Carcinoma of the Head and Neck (SCCHN)"
+        ],
+        "gyn_conditions": [
+          "Cervix Cancer",
+          "Endometrium Cancer",
+          "Ovary Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "Tisotumab Vedotin (HuMax-TF-ADC)"
+        ],
+        "pmids": [
+          "30745090",
+          "31796521",
+          "37496366",
+          "41044356"
+        ]
+      }
+    ],
+    "trial_pmids": [
+      "30745090",
+      "31796521",
+      "33845034",
+      "37496366",
+      "37651655",
+      "38959480",
+      "41044356",
+      "41644383",
+      "42000372"
+    ]
+  },
+  {
+    "itemid": "1023",
+    "name": "Sacituzumab govitecan",
+    "synonyms": [
+      "Trodelvy",
+      "IMMU-132",
+      "hRS7-SN38"
+    ],
+    "name_full": "Sacituzumab govitecan | Trodelvy | IMMU-132 | hRS7-SN38",
+    "company": "Gilead Sciences (previously Immunomedics)",
+    "url": "https://www.adcreview.com/drugmap/immu-132-hrs7-sn38/",
+    "slug": "immu-132-hrs7-sn38",
+    "organ_tags": [
+      "bladder",
+      "colon",
+      "kidneys"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 7,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING",
+      "COMPLETED",
+      "NOT_YET_RECRUITING",
+      "RECRUITING",
+      "TERMINATED"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07504588",
+        "title": "Sacituzumab Govitecan With Bevacizumab Compared to Usual Chemotherapy (Carboplatin, Pegylated Liposomal Doxorubicin and Bevacizumab) for Treating Recurrent Platinum-Sensitive Ovarian Cancer After PARP Inhibitor Maintenance Therapy",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2026-09-10",
+        "sponsor": "National Cancer Institute (NCI)",
+        "conditions": [
+          "Recurrent Platinum-Sensitive Fallopian Tube Endometrioid Adenocarcinoma",
+          "Recurrent Platinum-Sensitive Fallopian Tube High Grade Serous Adenocarcinoma",
+          "Recurrent Platinum-Sensitive Ovarian High Grade Endometrioid Adenocarcinoma",
+          "Recurrent Platinum-Sensitive Ovarian High Grade Serous Adenocarcinoma",
+          "Recurrent Platinum-Sensitive Primary Peritoneal Endometrioid Adenocarcinoma",
+          "Recurrent Platinum-Sensitive Primary Peritoneal High Grade Serous Adenocarcinoma"
+        ],
+        "gyn_conditions": [
+          "Recurrent Platinum-Sensitive Fallopian Tube Endometrioid Adenocarcinoma",
+          "Recurrent Platinum-Sensitive Fallopian Tube High Grade Serous Adenocarcinoma",
+          "Recurrent Platinum-Sensitive Ovarian High Grade Endometrioid Adenocarcinoma",
+          "Recurrent Platinum-Sensitive Ovarian High Grade Serous Adenocarcinoma",
+          "Recurrent Platinum-Sensitive Primary Peritoneal Endometrioid Adenocarcinoma",
+          "Recurrent Platinum-Sensitive Primary Peritoneal High Grade Serous Adenocarcinoma"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Anti-VEGF Monoclonal Antibody",
+          "Bevacizumab",
+          "Biospecimen Collection",
+          "Carboplatin",
+          "Computed Tomography",
+          "Echocardiography Test",
+          "Gemcitabine",
+          "Magnetic Resonance Imaging",
+          "Pegylated Liposomal Doxorubicin Hydrochloride",
+          "Sacituzumab Govitecan"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06865677",
+        "title": "Sacituzumab Govitecan for Relapsed Ovarian, Endometrial, and Cervical Carcinomas",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2025-06-09",
+        "sponsor": "National Cancer Institute (NCI)",
+        "conditions": [
+          "Recurrent Platinum Resistant Epithelial Ovarian Carcinoma",
+          "Recurrent Epithelial Endometrial Carcinoma",
+          "Recurrent Epithelial Cervical Carcinoma"
+        ],
+        "gyn_conditions": [
+          "Recurrent Epithelial Cervical Carcinoma",
+          "Recurrent Epithelial Endometrial Carcinoma",
+          "Recurrent Platinum Resistant Epithelial Ovarian Carcinoma"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "Sacituzumab Govitecan",
+          "EKG",
+          "Brain MRI",
+          "CT scans",
+          "Tumor biopsy",
+          "Loperamide",
+          "Octreotide",
+          "Diphenoxylate/Atropine",
+          "Antiemetics"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT05867251",
+        "title": "Study of AVZO-021 in Patients With Advanced Solid Tumors",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2023-08-30",
+        "sponsor": "Avenzo Therapeutics, Inc.",
+        "conditions": [
+          "Advanced Solid Tumor",
+          "HR+/HER2- Breast Cancer",
+          "HR+, HER2-, Advanced Breast Cancer",
+          "CCNE1 Amplification",
+          "Epithelial Ovarian Cancer",
+          "Primary Peritoneal Cancer",
+          "Fallopian Tube Cancer",
+          "Endometrial Cancer",
+          "TNBC - Triple-Negative Breast Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer",
+          "Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "AVZO-021",
+          "Palbociclib",
+          "Fulvestrant",
+          "Letrozole",
+          "Ribociclib",
+          "Abemaciclib",
+          "Carboplatin",
+          "Sacituzumab Govitecan-hziy"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT05838521",
+        "title": "A Study of Sacituzumab Govitecan (IMMU-132) in Patients With Recurrent or Persistent Cervical Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2023-06-02",
+        "sponsor": "Yale University",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "Sacituzumab govitecan"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT04251416",
+        "title": "A Study of Sacituzumab Govitecan (IMMU-132) in Endometrial Carcinoma",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2020-03-17",
+        "sponsor": "Yale University",
+        "conditions": [
+          "Endometrial Carcinoma"
+        ],
+        "gyn_conditions": [
+          "Endometrial Carcinoma"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "Sacituzumab Govitecan"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT03992131",
+        "title": "A Study to Evaluate Rucaparib in Combination With Other Anticancer Agents in Participants With a Solid Tumor (SEASTAR)",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2019-06-28",
+        "sponsor": "pharmaand GmbH",
+        "conditions": [
+          "Ovarian Cancer",
+          "Triple-negative Breast Cancer",
+          "Urothelial Carcinoma",
+          "Solid Tumor"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Rucaparib",
+          "Lucitanib",
+          "Sacituzumab govitecan"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT01631552",
+        "title": "Study of Sacituzumab Govitecan-hziy (IMMU-132) in Adults With Epithelial Cancer",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2012-12-17",
+        "sponsor": "Gilead Sciences",
+        "conditions": [
+          "Gastric Adenocarcinoma",
+          "Esophageal Cancer",
+          "Hepatocellular Carcinoma",
+          "Non-small Cell Lung Cancer",
+          "Small Cell Lung Cancer",
+          "Ovarian Epithelial Cancer",
+          "Carcinoma Breast Stage IV",
+          "Hormone-refractory Prostate Cancer",
+          "Head and Neck Cancers- Squamous Cell",
+          "Renal Cell Cancer",
+          "Urinary Bladder Neoplasms",
+          "Cervical Cancer",
+          "Endometrial Cancer",
+          "Glioblastoma Multiforme",
+          "Triple Negative Breast Cancer",
+          "Pancreatic Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer",
+          "Endometrial Cancer",
+          "Ovarian Epithelial Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "Sacituzumab Govitecan-hziy (SG)"
+        ],
+        "pmids": [
+          "25915780",
+          "25944802",
+          "26106073",
+          "26541586",
+          "28291390",
+          "28548889",
+          "28558150",
+          "28679770",
+          "30786188",
+          "31189049",
+          "32946924",
+          "33741442",
+          "35728046"
+        ]
+      }
+    ],
+    "trial_pmids": [
+      "25915780",
+      "25944802",
+      "26106073",
+      "26541586",
+      "28291390",
+      "28548889",
+      "28558150",
+      "28679770",
+      "30786188",
+      "31189049",
+      "32946924",
+      "33741442",
+      "35728046"
+    ]
+  },
+  {
+    "itemid": "12029",
+    "name": "Disitamab Vedotin",
+    "synonyms": [
+      "RC-48",
+      "RC 480-ADC",
+      "RC48",
+      "爱地希®",
+      "Aidixi®"
+    ],
+    "name_full": "Disitamab Vedotin | RC-48 | RC 480-ADC | RC48 | 爱地希® | Aidixi®",
+    "company": "Remegen Biosciences (Shandong China), Yantai Rongchang Biological Engineering (manufactured by MabPlex) Pfizer (Seagen)",
+    "url": "https://www.adcreview.com/drugmap/disitamab-vedotin/",
+    "slug": "disitamab-vedotin",
+    "organ_tags": [
+      "breast",
+      "urethra"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 6,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING",
+      "NOT_YET_RECRUITING",
+      "RECRUITING"
+    ],
+    "phases": [
+      "EARLY_PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07311577",
+        "title": "Disitamab Vedotin Combined With Platinum and Bevacizumab as First-Line and Maintenance Therapy for HER2-Expressing, HRD-Negative High-Risk Ovarian Cancer: A Multicenter, Non-Randomized, Single-Arm Phase II Clinical Study",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2026-01-01",
+        "sponsor": "Jiangsu Cancer Institute & Hospital",
+        "conditions": [
+          "Ovarian Cancer Metastatic",
+          "Ovarian Cancer Metastatic Recurrent"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer Metastatic",
+          "Ovarian Cancer Metastatic Recurrent"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "RC48+Carboplatin+Bevacizumab"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT07172217",
+        "title": "The Efficacy and Safety RC48 Plus QL1706 in Second-Line Treatment of HER2-Expressing Recurrent CC",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2025-10-01",
+        "sponsor": "Qilu Hospital of Shandong University",
+        "conditions": [
+          "Recurrent Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Recurrent Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "RC48",
+          "QL1706"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06660511",
+        "title": "Exploratory Study on the Safety and Efficacy of Disitamab Vedotin in Combination with Anlotinib Hydrochloride for the Treatment of HER-2-expressing Recurrent Platinum-resistant Ovarian Cancer.",
+        "status": "RECRUITING",
+        "phases": [
+          "EARLY_PHASE1"
+        ],
+        "start": "2024-10-15",
+        "sponsor": "Second Xiangya Hospital of Central South University",
+        "conditions": [
+          "Ovarian Cancer Recurrent"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer Recurrent"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Disitamab Vedotin in Combination With Anlotinib Hydrochloride"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06540729",
+        "title": "RC48 in Combination With AK104 and Bevacizumab in OCCC",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2024-09-24",
+        "sponsor": "Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University",
+        "conditions": [
+          "Ovary Cancer"
+        ],
+        "gyn_conditions": [
+          "Ovary Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Disitamab vedotin in combination with AK104 and bevacizumab for the treatment of recurrent and persistent clear cell ovarian cancer"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06155396",
+        "title": "A Study of RC48-ADC Combination With Zimberelimab Injection Therapies at Least First-line Platinum-containing Standard Therapy Failed With Recurrent or Metastatic Cervical Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2024-01-11",
+        "sponsor": "RemeGen Co., Ltd.",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "Disitamab Vedotin",
+          "Zimberelimab"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06003231",
+        "title": "A Study of Disitamab Vedotin in Previously Treated Solid Tumors That Express HER2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2023-11-14",
+        "sponsor": "Seagen, a wholly owned subsidiary of Pfizer",
+        "conditions": [
+          "Carcinoma, Non-Small-Cell Lung",
+          "Ovarian Neoplasms",
+          "Endometrial Neoplasms",
+          "Head and Neck Neoplasms"
+        ],
+        "gyn_conditions": [
+          "Endometrial Neoplasms",
+          "Ovarian Neoplasms"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "disitamab vedotin"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "18570",
+    "name": "Rinatabart Sesutecan",
+    "synonyms": [
+      "PRO1184",
+      "Rina-S"
+    ],
+    "name_full": "Rinatabart Sesutecan | PRO1184 | Rina-S",
+    "company": "ProfoundBio Genmab",
+    "url": "https://www.adcreview.com/drugmap/rinatabart-sesutecan-pro1184/",
+    "slug": "rinatabart-sesutecan-pro1184",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 6,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING",
+      "NOT_YET_RECRUITING",
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2",
+      "PHASE3"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07564141",
+        "title": "Study to Assess the Efficacy and Safety of Rina-S With or Without Bevacizumab Compared to Investigator's Choice of Platinum-based Chemotherapy With or Without Bevacizumab as Second-line Treatment in Participants With Recurrent Platinum-sensitive Ovarian Cancer",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2026-07",
+        "sponsor": "Genmab",
+        "conditions": [
+          "Platinum-Sensitive Ovarian Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer",
+          "Platinum-Sensitive Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Rina-S",
+          "Bevacizumab",
+          "Carboplatin",
+          "Gemcitabine",
+          "Paclitaxel",
+          "PLD"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT07604766",
+        "title": "An Extension Study to Assess the Efficacy of Rina-S Compared to Treatment of Investigator's Choice in Participants With Platinum Resistant Ovarian Cancer in China",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2026-06",
+        "sponsor": "Genmab",
+        "conditions": [
+          "Platinum-resistant Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Platinum-resistant Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Rina-S",
+          "Paclitaxel",
+          "Topotecan",
+          "Pegylated liposomal doxorubicin (PLD)",
+          "Gemcitabine"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT07225270",
+        "title": "Study to Assess the Efficacy and Safety of Rina-S Plus Standard of Care Compared to Standard of Care for Maintenance Treatment of Participants With Recurrent Platinum-sensitive Ovarian Cancer After Second-line (2L) Platinum-based Doublet Chemotherapy",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2026-04-03",
+        "sponsor": "Genmab",
+        "conditions": [
+          "Ovarian Cancer",
+          "Platinum-sensitive Ovarian Cancer",
+          "PSOC"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer",
+          "Platinum-sensitive Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Rina-S",
+          "Bevacizumab"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT07166094",
+        "title": "Study to Assess the Efficacy and Safety of Rina-S Compared to Treatment of Investigator's Choice in Participants With Endometrial Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2025-11-28",
+        "sponsor": "Genmab",
+        "conditions": [
+          "Endometrial Cancer",
+          "Recurrent or Progressive Endometrial Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer",
+          "Recurrent or Progressive Endometrial Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "Rina-S",
+          "IC"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06619236",
+        "title": "Study to Assess the Efficacy of Rina-S Compared to Treatment of Investigator's Choice in Participants With Platinum Resistant Ovarian Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2025-02-07",
+        "sponsor": "Genmab",
+        "conditions": [
+          "Platinum-resistant Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Platinum-resistant Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Rina-S",
+          "Paclitaxel",
+          "Topotecan",
+          "Pegylated liposomal doxorubicin (PLD)",
+          "Gemcitabine"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT05579366",
+        "title": "Rinatabart Sesutecan (Rina-S, PRO1184, GEN1184) for Advanced Solid Tumors (GCT1184-01/ PRO1184-001)",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2022-12-07",
+        "sponsor": "Genmab",
+        "conditions": [
+          "High Grade Epithelial Ovarian Cancer",
+          "High Grade Serous Ovarian Cancer",
+          "Primary Peritoneal Carcinoma",
+          "Fallopian Tube Cancer",
+          "Endometrial Cancer",
+          "Non-small Cell Lung Cancer",
+          "Epidermal Growth Factor Receptor (EGFR)-Mutated Non-Small Cell Lung Cancer (NSCLC)",
+          "Mesothelioma",
+          "Breast Adenocarcinoma",
+          "Triple Negative Breast Cancer",
+          "Hormone Receptor-positive/Her2 Negative Breast Cancer",
+          "Platinum-resistant Ovarian Cancer (PROC)",
+          "Platinum Sensitive Ovarian Cancer (PSOC)",
+          "Primary Refractory Ovarian Cancer",
+          "Uterine Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer",
+          "Fallopian Tube Cancer",
+          "High Grade Epithelial Ovarian Cancer",
+          "High Grade Serous Ovarian Cancer",
+          "Platinum Sensitive Ovarian Cancer (PSOC)",
+          "Platinum-resistant Ovarian Cancer (PROC)",
+          "Primary Peritoneal Carcinoma",
+          "Primary Refractory Ovarian Cancer",
+          "Uterine Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "Rina-S",
+          "Carboplatin",
+          "Bevacizumab",
+          "Pembrolizumab"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "18134",
+    "name": "Izalontamab Brengitecan",
+    "synonyms": [
+      "BL-B01D1"
+    ],
+    "name_full": "Izalontamab Brengitecan | BL-B01D1",
+    "company": "SystImmune, Inc in collaboration with Sichuan Baili Pharmaceutical Co. and Bristol Myers Squibb",
+    "url": "https://www.adcreview.com/drugmap/bl-b01d1/",
+    "slug": "bl-b01d1",
+    "organ_tags": [
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "stomach"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "endometrial",
+      "gyn_other",
+      "ovarian"
+    ],
+    "n_gyn_trials": 4,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2",
+      "PHASE3"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07054567",
+        "title": "A Study of BL-B01D1 + Pembrolizumab ± Bevacizumab in Patients With Recurrent or Metastatic Cervical Cancer and Endometrial Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2025-08-21",
+        "sponsor": "Sichuan Baili Pharmaceutical Co., Ltd.",
+        "conditions": [
+          "Cervical Cancer",
+          "Endometrial Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer",
+          "Endometrial Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial"
+        ],
+        "interventions": [
+          "BL-B01D1",
+          "Pembrolizumab",
+          "Bevacizumab"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06994195",
+        "title": "A Study Comparing BL-B01D1 With the Investigator's Choice of Chemotherapy in Patients With Platinum-resistant Recurrent Epithelial Ovarian Cancer(PANKU-GYN01)",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2025-08-04",
+        "sponsor": "Sichuan Baili Pharmaceutical Co., Ltd.",
+        "conditions": [
+          "Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_conditions": [
+          "Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "BL-B01D1",
+          "Liposomal doxorubicin, Paclitaxel or Topotecan"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT05990803",
+        "title": "A Study of BL-B01D1, SI-B003 and BL-B01D1+SI-B003 in Patients With Recurrent or Metastatic Cervical Cancer and Other Gynecological Malignancies",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2023-11-06",
+        "sponsor": "Sichuan Baili Pharmaceutical Co., Ltd.",
+        "conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "BL-B01D1",
+          "SI-B003"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT05803018",
+        "title": "A Study of BL-B01D1 in Patients With Multiple Solid Tumors, Including Recurrent or Metastatic Gynecological Malignancies",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2023-06-25",
+        "sponsor": "Sichuan Baili Pharmaceutical Co., Ltd.",
+        "conditions": [
+          "Gynecological Malignant Tumor",
+          "Solid Tumor"
+        ],
+        "gyn_conditions": [
+          "Gynecological Malignant Tumor"
+        ],
+        "gyn_subtypes": [
+          "gyn_other"
+        ],
+        "interventions": [
+          "BL-B01D1"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6773",
+    "name": "Upifitamab Rilsodotin",
+    "synonyms": [
+      "XMT-1536",
+      "UpRi"
+    ],
+    "name_full": "Upifitamab Rilsodotin | XMT-1536 | UpRi",
+    "company": "Mersana Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/xmt-1536-upifitamab-rilsodotin-upri/",
+    "slug": "xmt-1536-upifitamab-rilsodotin-upri",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 4,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING",
+      "COMPLETED",
+      "TERMINATED"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT04907968",
+        "title": "Study of Upifitamab Rilsodotin in Combination With Carboplatin in Participants With High-grade Serous Ovarian Cancer",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2021-06-11",
+        "sponsor": "Mersana Therapeutics",
+        "conditions": [
+          "Platinum-sensitive Ovarian Cancer (UPGRADE-A)"
+        ],
+        "gyn_conditions": [
+          "Platinum-sensitive Ovarian Cancer (UPGRADE-A)"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "XMT-1536 (Upifitamab Rilsodotin)",
+          "Carboplatin"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06517485",
+        "title": "First-in-Human Dose Expansion Study of XMT-1536 in Cancers Likely to Express NaPi2b",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2019-07-30",
+        "sponsor": "Mersana Therapeutics",
+        "conditions": [
+          "Platinum Resistant Ovarian Cancer",
+          "Non-Small Cell Adenocarcinoma"
+        ],
+        "gyn_conditions": [
+          "Platinum Resistant Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "upifitamab rilsodotin"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT03319628",
+        "title": "First-in-Human Study of XMT-1536 in Cancers Likely to Express NaPi2b",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2017-12-12",
+        "sponsor": "Mersana Therapeutics",
+        "conditions": [
+          "Platinum Resistant Ovarian Cancer",
+          "Non Small Cell Lung Cancer Metastatic"
+        ],
+        "gyn_conditions": [
+          "Platinum Resistant Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "upifitamab rilsodotin"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06517433",
+        "title": "First-in-Human Dose Escalation Study of XMT-1536 in Cancers Likely to Express NaPi2b",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2017-12-12",
+        "sponsor": "Mersana Therapeutics",
+        "conditions": [
+          "Platinum Resistant Ovarian Cancer",
+          "Non Small Cell Lung Cancer Metastatic"
+        ],
+        "gyn_conditions": [
+          "Platinum Resistant Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "upifitamab rilsodotin"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "17128",
+    "name": "Mocertatug Rezetecan",
+    "synonyms": [
+      "Mo-Rez",
+      "HS-20089",
+      "GSK5733584"
+    ],
+    "name_full": "Mocertatug Rezetecan | Mo-Rez | HS-20089 | GSK5733584",
+    "company": "Hansoh BioMedical R&D Company ( Shanghai Hansoh Biomedical Co., Ltd and GSK",
+    "url": "https://www.adcreview.com/drugmap/hs-20089-is-a-tubulin-inhibitor-b7-h4-targeted-antibody-drug-conjugate/",
+    "slug": "hs-20089-is-a-tubulin-inhibitor-b7-h4-targeted-antibody-drug-conjugate",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "gyn_other",
+      "ovarian"
+    ],
+    "n_gyn_trials": 3,
+    "statuses": [
+      "NOT_YET_RECRUITING",
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2",
+      "PHASE3"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07286266",
+        "title": "A Study to Investigate Mocertatug Rezetecan Compared With Standard of Care in Participants With Platinum-resistant Ovarian Cancer (BEHOLD-Ovarian01)",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2026-06-24",
+        "sponsor": "GlaxoSmithKline",
+        "conditions": [
+          "Ovarian Neoplasms"
+        ],
+        "gyn_conditions": [
+          "Ovarian Neoplasms"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Mocertatug rezetecan",
+          "Paclitaxel",
+          "Pegylated liposomal doxorubicin (PLD)",
+          "Topotecan",
+          "Gemcitabine",
+          "Pembrolizumab",
+          "Bevacizumab"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT07286331",
+        "title": "A Study to Investigate Mocertatug Rezetecan Compared With Chemotherapy in Participants With Endometrial Cancer After Platinum-based Chemotherapy and Immunotherapy (BEHOLD-Endometrial01)",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2026-06-09",
+        "sponsor": "GlaxoSmithKline",
+        "conditions": [
+          "Neoplasms, Endometrial"
+        ],
+        "gyn_conditions": [
+          "Neoplasms, Endometrial"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "Mocertatug rezetecan",
+          "Paclitaxel",
+          "Doxorubicin"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06796907",
+        "title": "A Study of Mocertatug Rezetecan in Combination With Anti-cancer Therapies for Advanced Solid Tumors",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2025-03-04",
+        "sponsor": "GlaxoSmithKline",
+        "conditions": [
+          "Tumours, Gynecological"
+        ],
+        "gyn_conditions": [
+          "Tumours, Gynecological"
+        ],
+        "gyn_subtypes": [
+          "gyn_other"
+        ],
+        "interventions": [
+          "Mo-Rez",
+          "Dostarlimab",
+          "Bevacizumab"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "20408",
+    "name": "TORL-1-23",
+    "synonyms": [],
+    "name_full": "TORL-1-23",
+    "company": "TORL Biotherapeutics",
+    "url": "https://www.adcreview.com/drugmap/torl-1-23/",
+    "slug": "torl-1-23",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 3,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07322094",
+        "title": "CATALINA-4: A Study to Investigate the Safety and Efficacy of TORL-1-23 With Chemotherapy Given Before Initial Surgery in Women With Advanced Stage Ovarian Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2025-12-10",
+        "sponsor": "TORL Biotherapeutics, LLC",
+        "conditions": [
+          "FIGO Stage III and IV Ovarian Cancer",
+          "Fallopian Tube Cancers",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_conditions": [
+          "FIGO Stage III and IV Ovarian Cancer",
+          "Fallopian Tube Cancers",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "TORL-1-23 and paclitaxel",
+          "TORL-1-23 and carboplatin",
+          "TORL-1-23, paclitaxel, and carboplatin"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT06690775",
+        "title": "CATALINA-2: A Clinical Study of TORL-1-23 in Platinum-resistant Ovarian Cancer.",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2024-11-20",
+        "sponsor": "TORL Biotherapeutics, LLC",
+        "conditions": [
+          "Epithelial Ovarian Cancer",
+          "Primary Peritoneal",
+          "Fallopian Tube Cancer",
+          "Endometrioid Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrioid Ovarian Cancer",
+          "Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer",
+          "Primary Peritoneal"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "TORL-1-23",
+          "TORL-1-23",
+          "TORL-1-23",
+          "Pegfilgrastim (drug)"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT05103683",
+        "title": "First in Human Study of TORL-1-23 in Participants With Advanced Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2021-11-17",
+        "sponsor": "TORL Biotherapeutics, LLC",
+        "conditions": [
+          "Advanced Solid Tumor",
+          "Ovarian Cancer",
+          "Endometrial Cancer",
+          "NSCLC"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "TORL-1-23"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "5702",
+    "name": "Anetumab Ravtansine",
+    "synonyms": [
+      "BAY 94-9343"
+    ],
+    "name_full": "Anetumab Ravtansine | BAY 94-9343",
+    "company": "Bayer HealthCare Pharmaceuticals in association with ImmunoGen Inc.",
+    "url": "https://www.adcreview.com/drugmap/anetumab-ravtansine-bay-94-9343-2/",
+    "slug": "anetumab-ravtansine-bay-94-9343-2",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 2,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING",
+      "COMPLETED"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT03587311",
+        "title": "Bevacizumab and Anetumab Ravtansine or Paclitaxel in Treating Patients With Refractory Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2018-10-12",
+        "sponsor": "National Cancer Institute (NCI)",
+        "conditions": [
+          "Fallopian Tube Endometrioid Adenocarcinoma",
+          "Fallopian Tube High Grade Serous Adenocarcinoma",
+          "Ovarian Endometrioid Adenocarcinoma",
+          "Ovarian High Grade Serous Adenocarcinoma",
+          "Platinum-Resistant Fallopian Tube Carcinoma",
+          "Platinum-Resistant Ovarian Carcinoma",
+          "Platinum-Resistant Primary Peritoneal Carcinoma",
+          "Primary Peritoneal High Grade Serous Adenocarcinoma"
+        ],
+        "gyn_conditions": [
+          "Fallopian Tube Endometrioid Adenocarcinoma",
+          "Fallopian Tube High Grade Serous Adenocarcinoma",
+          "Ovarian Endometrioid Adenocarcinoma",
+          "Ovarian High Grade Serous Adenocarcinoma",
+          "Platinum-Resistant Fallopian Tube Carcinoma",
+          "Platinum-Resistant Ovarian Carcinoma",
+          "Platinum-Resistant Primary Peritoneal Carcinoma",
+          "Primary Peritoneal High Grade Serous Adenocarcinoma"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Anetumab Ravtansine",
+          "Bevacizumab",
+          "Paclitaxel"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT02751918",
+        "title": "Phase Ib Study of Anetumab Ravtansine in Combination With Pegylated Liposomal Doxorubicin in Patients With Recurrent Mesothelin-expressing Platinum-resistant Cancer",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2016-06-08",
+        "sponsor": "Bayer",
+        "conditions": [
+          "Ovarian Neoplasms"
+        ],
+        "gyn_conditions": [
+          "Ovarian Neoplasms"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Anetumab ravtansine (BAY94-9343)",
+          "Pegylated Liposomal Doxorubicin"
+        ],
+        "pmids": [
+          "36564099"
+        ]
+      }
+    ],
+    "trial_pmids": [
+      "36564099"
+    ]
+  },
+  {
+    "itemid": "1037",
+    "name": "Lifastuzumab Vedotin",
+    "synonyms": [
+      "RG-7599",
+      "DNIB0600A"
+    ],
+    "name_full": "Lifastuzumab Vedotin | RG-7599 | DNIB0600A",
+    "company": "Roche, F. Hoffmann-La Roche / Genentech",
+    "url": "https://www.adcreview.com/drugmap/lifastuzumab-vedotin-anti-napi2b-adc-rg-7599-dnib-0600-a/",
+    "slug": "lifastuzumab-vedotin-anti-napi2b-adc-rg-7599-dnib-0600-a",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 2,
+    "statuses": [
+      "COMPLETED",
+      "TERMINATED"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT01991210",
+        "title": "A Study of DNIB0600A in Comparison With Pegylated Liposomal Doxorubicin (PLD) in Participants With Platinum-Resistant Ovarian Cancer (PROC)",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2014-02-06",
+        "sponsor": "Genentech, Inc.",
+        "conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "DNIB0600A",
+          "PLD"
+        ],
+        "pmids": [
+          "29401246",
+          "37407274"
+        ]
+      },
+      {
+        "nct": "NCT01363947",
+        "title": "Safety and Pharmacokinetics of Escalating Doses of DNIB0600A in Participants With Non-Small Cell Lung Cancer (NSCLC) and Platinum Resistant Ovarian Cancer",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2011-06-14",
+        "sponsor": "Genentech, Inc.",
+        "conditions": [
+          "Non-Small Cell Lung Cancer, Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Non-Small Cell Lung Cancer, Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "DNIB0600A"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": [
+      "29401246",
+      "37407274"
+    ]
+  },
+  {
+    "itemid": "6691",
+    "name": "Trastuzumab deruxtecan",
+    "synonyms": [
+      "DS-8201, DS-8201a",
+      "ENHERTU®"
+    ],
+    "name_full": "Trastuzumab deruxtecan | DS-8201, DS-8201a | ENHERTU®",
+    "company": "Daiichi Sankyo and AstraZeneca",
+    "url": "https://www.adcreview.com/drugmap/trastuzumab-deruxtecan-ds-8201-ds-8201a/",
+    "slug": "trastuzumab-deruxtecan-ds-8201-ds-8201a",
+    "organ_tags": [
+      "breast"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 2,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING",
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE3"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06819007",
+        "title": "Study of Trastuzumab Deruxtecan With Bevacizumab Versus Bevacizumab Monotherapy for First-line Maintenance in HER2-Expressing Ovarian Cancer (DESTINY-Ovarian01)",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2025-03-19",
+        "sponsor": "Daiichi Sankyo",
+        "conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Trastuzumab Deruxtecan",
+          "Bevacizumab"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT04704661",
+        "title": "Testing the Combination of Two Anti-cancer Drugs, DS-8201a and AZD6738, for The Treatment of Advanced Solid Tumors Expressing the HER2 Protein or Gene, The DASH Trial",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2021-08-09",
+        "sponsor": "National Cancer Institute (NCI)",
+        "conditions": [
+          "Advanced Breast Carcinoma",
+          "Advanced Colon Carcinoma",
+          "Advanced Colorectal Carcinoma",
+          "Advanced Endometrial Carcinoma",
+          "Advanced Gastric Carcinoma",
+          "Advanced Gastroesophageal Junction Adenocarcinoma",
+          "Advanced Malignant Solid Neoplasm",
+          "Advanced Salivary Gland Carcinoma",
+          "Anatomic Stage III Breast Cancer AJCC v8",
+          "Anatomic Stage IV Breast Cancer AJCC v8",
+          "Clinical Stage III Gastric Cancer AJCC v8",
+          "Clinical Stage III Gastroesophageal Junction Adenocarcinoma AJCC v8",
+          "Clinical Stage IV Gastric Cancer AJCC v8",
+          "Clinical Stage IV Gastroesophageal Junction Adenocarcinoma AJCC v8",
+          "HER2-Positive Breast Carcinoma",
+          "Malignant Hepatobiliary Neoplasm",
+          "Metastatic Breast Carcinoma",
+          "Metastatic Colon Carcinoma",
+          "Metastatic Colorectal Carcinoma",
+          "Metastatic Endometrial Carcinoma",
+          "Metastatic Gastric Carcinoma",
+          "Metastatic Gastroesophageal Junction Adenocarcinoma",
+          "Metastatic Malignant Solid Neoplasm",
+          "Metastatic Salivary Gland Carcinoma",
+          "Stage III Colon Cancer AJCC v8",
+          "Stage III Colorectal Cancer AJCC v8",
+          "Stage III Major Salivary Gland Cancer AJCC v8",
+          "Stage III Uterine Corpus Carcinoma or Carcinosarcoma AJCC v8",
+          "Stage IV Colon Cancer AJCC v8",
+          "Stage IV Colorectal Cancer AJCC v8",
+          "Stage IV Major Salivary Gland Cancer AJCC v8",
+          "Stage IV Uterine Corpus Carcinoma or Carcinosarcoma AJCC v8",
+          "Unresectable Breast Carcinoma",
+          "Unresectable Colon Carcinoma",
+          "Unresectable Colorectal Carcinoma",
+          "Unresectable Endometrial Carcinoma",
+          "Unresectable Gastric Carcinoma",
+          "Unresectable Gastroesophageal Junction Adenocarcinoma",
+          "Unresectable Malignant Solid Neoplasm",
+          "Unresectable Salivary Gland Carcinoma"
+        ],
+        "gyn_conditions": [
+          "Advanced Endometrial Carcinoma",
+          "Metastatic Endometrial Carcinoma",
+          "Stage III Uterine Corpus Carcinoma or Carcinosarcoma AJCC v8",
+          "Stage IV Uterine Corpus Carcinoma or Carcinosarcoma AJCC v8",
+          "Unresectable Endometrial Carcinoma"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "Biopsy Procedure",
+          "Biospecimen Collection",
+          "Ceralasertib",
+          "Computed Tomography",
+          "Echocardiography Test",
+          "Multigated Acquisition Scan",
+          "Positron Emission Tomography",
+          "Trastuzumab Deruxtecan"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1068",
+    "name": "Trastuzumab duocarmazine",
+    "synonyms": [
+      "SYD985",
+      "Trastuzumab vc-seco-DUBA"
+    ],
+    "name_full": "Trastuzumab duocarmazine | SYD985 | Trastuzumab vc-seco-DUBA",
+    "company": "Byondis",
+    "url": "https://www.adcreview.com/drugmap/trastuzumab-duocarmazine-syd985/",
+    "slug": "trastuzumab-duocarmazine-syd985",
+    "organ_tags": [
+      "breast"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 2,
+    "statuses": [
+      "COMPLETED",
+      "WITHDRAWN"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT04602117",
+        "title": "ISPY-P1.01:Evaluating the Safety of Weekly Paclitaxel With Trastuzumab Duocarmazine (SYD985) in Patients With Metastatic Cancer",
+        "status": "WITHDRAWN",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2021-07-28",
+        "sponsor": "QuantumLeap Healthcare Collaborative",
+        "conditions": [
+          "HER2-positive Breast Cancer",
+          "HER2 Low",
+          "SYD-985",
+          "SYD985",
+          "Vic-trastuzumab Duocarmazine",
+          "Metastatic Cancer",
+          "Metastatic Breast Cancer",
+          "Metastatic Gastrointestinal Carcinoid Tumor",
+          "Metastatic",
+          "HER2 Low Breast Cancer",
+          "GastroEsophageal Cancer",
+          "Gastroesophageal Adenocarcinoma",
+          "Endometrium Tumor",
+          "Ovarian Cancer",
+          "Ovarian Carcinoma",
+          "HER2-positive Gastric Cancer",
+          "HER2-positive Metastatic Breast Cancer",
+          "HER2 Mutation-Related Tumors",
+          "HER-2 Protein Overexpression",
+          "HER2 Low HR Positive",
+          "HR Positive",
+          "Hormone Receptor-positive Breast Cancer",
+          "Estrogen Receptor Positive Tumor",
+          "Progesterone Receptor-positive Breast Cancer",
+          "Triple Negative Breast Cancer",
+          "Hormone Receptor Negative Breast Carcinoma",
+          "Bladder Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrium Tumor",
+          "Ovarian Cancer",
+          "Ovarian Carcinoma"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "Vic-trastuzumab duocarmazine (SYD985) + paclitaxel"
+        ],
+        "pmids": []
+      },
+      {
+        "nct": "NCT04205630",
+        "title": "SYD985 in Patients With HER2-expressing Recurrent, Advanced or Metastatic Endometrial Carcinoma",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2020-05-28",
+        "sponsor": "Byondis B.V.",
+        "conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "SYD985"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "138",
+    "name": "Trastuzumab Emtansine",
+    "synonyms": [
+      "T-DM1",
+      "Kadcyla®"
+    ],
+    "name_full": "Trastuzumab Emtansine | T-DM1 | Kadcyla®",
+    "company": "Genentech Roche In collaboration with ImmunoGen",
+    "url": "https://www.adcreview.com/drugmap/trastuzumab-emtansine-t-dm1-kadcyla/",
+    "slug": "trastuzumab-emtansine-t-dm1-kadcyla",
+    "organ_tags": [
+      "breast"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "ovarian"
+    ],
+    "n_gyn_trials": 2,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT05081609",
+        "title": "A Study to Investigate Safety and Tolerability of TransCon IL-2 β/γ Alone or in Combination With Pembrolizumab and/or TransCon TLR7/8 Agonist or Other Anticancer Therapies in Adult Participants With Locally Advanced or Metastatic Solid Tumor Malignancies",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2022-01-11",
+        "sponsor": "Ascendis Pharma Oncology Division A/S",
+        "conditions": [
+          "Advanced Solid Tumor",
+          "Locally Advanced Solid Tumor",
+          "Metastatic Solid Tumor",
+          "Platinum-resistant Ovarian Cancer",
+          "Post Anti-PD-1 Melanoma",
+          "2L+ Cervical Cancer",
+          "Neoadjuvant Melanoma",
+          "Neoadjuvant Non-Small Cell Lung Cancer",
+          "Post Anti-PD-(L)1 Non-Small Cell Lung Cancer",
+          "Post Anti-PD-(L)1 Small Cell Lung Cancer",
+          "Third Line or Later (3L+) HER2+ Breast Cancer",
+          "Second or Third Line (2L/3L) Cervical Cancer",
+          "Third-line or Later (3L+) Platinum-resistant Ovarian Cancer (PROC)"
+        ],
+        "gyn_conditions": [
+          "2L+ Cervical Cancer",
+          "Platinum-resistant Ovarian Cancer",
+          "Second or Third Line (2L/3L) Cervical Cancer",
+          "Third-line or Later (3L+) Platinum-resistant Ovarian Cancer (PROC)"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "ovarian"
+        ],
+        "interventions": [
+          "TransCon IL-2 β/γ",
+          "Pembrolizumab",
+          "Chemotherapy drug",
+          "TransCon TLR7/8 Agonist",
+          "Surgery",
+          "Trastuzumab",
+          "Trastuzumab emtansine (T-DM1)"
+        ],
+        "pmids": [
+          "35817480"
+        ]
+      },
+      {
+        "nct": "NCT04931342",
+        "title": "A Study Evaluating the Efficacy and Safety of Biomarker-Driven Therapies in Patients With Persistent or Recurrent Rare Epithelial Ovarian Tumors",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2021-10-07",
+        "sponsor": "Hoffmann-La Roche",
+        "conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Ipatasertib",
+          "Cobimetinib",
+          "Trastuzumab Emtansine",
+          "Atezolizumab",
+          "Bevacizumab",
+          "Paclitaxel",
+          "Giredestrant",
+          "Abemaciclib",
+          "Inavolisib",
+          "Palbociclib",
+          "Letrozole",
+          "Olaparib",
+          "Luteinizing Hormone-Releasing Hormone (LHRH) Agonists",
+          "Cyclophosphamide",
+          "Inavolisib"
+        ],
+        "pmids": [
+          "40022843"
+        ]
+      }
+    ],
+    "trial_pmids": [
+      "35817480",
+      "40022843"
+    ]
+  },
+  {
+    "itemid": "18579",
+    "name": "ADRX-0706",
+    "synonyms": [],
+    "name_full": "ADRX-0706",
+    "company": "Adcentrx Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/adrx-0706/",
+    "slug": "adrx-0706",
+    "organ_tags": [],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06036121",
+        "title": "A Study of ADRX-0706 in Select Advanced Solid Tumors",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2023-09-26",
+        "sponsor": "Adcentrx Therapeutics",
+        "conditions": [
+          "Solid Tumors",
+          "Triple Negative Breast Cancer (TNBC)",
+          "Urothelial Cancer",
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "ADRX-0706"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "17129",
+    "name": "AZD8205",
+    "synonyms": [],
+    "name_full": "AZD8205",
+    "company": "AstraZeneca",
+    "url": "https://www.adcreview.com/drugmap/azd8205-is-a-b7-h4-targeting-adc-being-developed-by-astrazeneca/",
+    "slug": "azd8205-is-a-b7-h4-targeting-adc-being-developed-by-astrazeneca",
+    "organ_tags": [
+      "breast",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT05123482",
+        "title": "A Phase I/IIa Study of AZD8205 Given Alone or Combined, in Participants With Advanced/Metastatic Solid Malignancies",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2021-10-18",
+        "sponsor": "AstraZeneca",
+        "conditions": [
+          "Breast Cancer",
+          "Biliary Tract Carcinoma",
+          "Ovarian Cancer",
+          "Endometrial Cancer",
+          "Squamous Non-Small Cell Lung Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "AZD8205",
+          "AZD8205 and AZD2936 (Rilvegostomig)",
+          "AZD8205 and AZD5305 (saruparib)",
+          "AZD8205 and AZD5305 (saruparib) and AZD2936 (rilvegostomig)",
+          "AZD8205 in combination with AZD9574",
+          "AZD8205 in combination with AZD9574 plus rilvegostomig (AZD2936)"
+        ],
+        "pmids": [
+          "39392424"
+        ]
+      }
+    ],
+    "trial_pmids": [
+      "39392424"
+    ]
+  },
+  {
+    "itemid": "18576",
+    "name": "BAT8006",
+    "synonyms": [],
+    "name_full": "BAT8006",
+    "company": "Bio-Thera Solutions, Ltd",
+    "url": "https://www.adcreview.com/drugmap/bat8006/",
+    "slug": "bat8006",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "WITHDRAWN"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06545617",
+        "title": "A Clinical Study to Observe How Well That BAT8006 Works on Patients With Platinum Resistance Ovarian Cancer",
+        "status": "WITHDRAWN",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2025-01-31",
+        "sponsor": "Bio-Thera Solutions",
+        "conditions": [
+          "Platinum-resistant Epithelial Ovarian Cancer",
+          "Fallopian Tube Cancer",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_conditions": [
+          "Fallopian Tube Cancer",
+          "Platinum-resistant Epithelial Ovarian Cancer",
+          "Primary Peritoneal Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "BAT8006 for Injection"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "20837",
+    "name": "BL-M17D1",
+    "synonyms": [],
+    "name_full": "BL-M17D1",
+    "company": "Sichuan Baili Pharmaceutical Co in collaboration withe the company's US subsidiary SystImmune.",
+    "url": "https://www.adcreview.com/drugmap/bl-m17d1/",
+    "slug": "bl-m17d1",
+    "organ_tags": [
+      "breast"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06714617",
+        "title": "Evaluate BL-M17D1 in Patients w/HER2-Expressing/Mutant Advanced or Metastatic Solid Tumors",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2025-04-10",
+        "sponsor": "SystImmune Inc.",
+        "conditions": [
+          "Breast Cancer Stage III",
+          "HER2-positive Metastatic Breast Cancer",
+          "Unresectable Breast Carcinoma",
+          "Her2-Positive",
+          "HER2 Gene Mutation",
+          "Gastroesophageal-junction Cancer",
+          "Non Small Cell Lung Cancer",
+          "Endometrial Neoplasms",
+          "Peritoneal Cancer",
+          "Fallopian Tube Cancer",
+          "Ovarian Cancer",
+          "Urothelial Carcinoma Bladder",
+          "Solid Tumor, Adult",
+          "Gastric Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrial Neoplasms",
+          "Fallopian Tube Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "BL-M17D1"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "137",
+    "name": "Brentuximab vedotin",
+    "synonyms": [
+      "SGN35",
+      "Adcetris®"
+    ],
+    "name_full": "Brentuximab vedotin | SGN35 | Adcetris®",
+    "company": "Seattle genetics, Inc. (Bothell WA USA) / Takeda Pharmaceutical Co. Ltd. (Osaka Japan)",
+    "url": "https://www.adcreview.com/drugmap/item-1/",
+    "slug": "item-1",
+    "organ_tags": [
+      "blood",
+      "bone_marrow",
+      "lymphatic_system"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "TERMINATED"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT04254107",
+        "title": "A Safety Study of SEA-TGT (SGN-TGT) in Advanced Cancer",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2020-05-29",
+        "sponsor": "Seagen Inc.",
+        "conditions": [
+          "Non-small Cell Lung Cancer",
+          "Gastric Carcinoma",
+          "Gastroesophageal Junction Carcinoma",
+          "Classical Hodgkin Lymphoma",
+          "Diffuse Large B-cell Lymphoma",
+          "Peripheral T-cell Lymphoma",
+          "Cutaneous Melanoma",
+          "Head and Neck Squamous Cell Carcinoma",
+          "Bladder Cancer",
+          "Ovarian Cancer",
+          "Triple Negative Breast Cancer",
+          "Cervical Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "ovarian"
+        ],
+        "interventions": [
+          "SEA-TGT",
+          "sasanlimab",
+          "brentuximab vedotin"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "18309",
+    "name": "BRY812",
+    "synonyms": [],
+    "name_full": "BRY812",
+    "company": "BioRay Pharmaceutical Co",
+    "url": "https://www.adcreview.com/drugmap/bry812/",
+    "slug": "bry812",
+    "organ_tags": [],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "gyn_other"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "NOT_YET_RECRUITING"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07311538",
+        "title": "Phase IIa Study of BRY812 Monotherapy in Advanced Gynecological Malignancies",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2025-12",
+        "sponsor": "BioRay Pharmaceutical Co., Ltd.",
+        "conditions": [
+          "Advanced Gynecological Malignancies"
+        ],
+        "gyn_conditions": [
+          "Advanced Gynecological Malignancies"
+        ],
+        "gyn_subtypes": [
+          "gyn_other"
+        ],
+        "interventions": [
+          "BRY812 for injection"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6681",
+    "name": "Camidanlumab tesirine",
+    "synonyms": [
+      "ADCT-301",
+      "HuMax-TAC-ADC"
+    ],
+    "name_full": "Camidanlumab tesirine | ADCT-301 | HuMax-TAC-ADC",
+    "company": "Genmab | ADC Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/camidanlumab-tesirine-adct-301-humax-tac-adc/",
+    "slug": "camidanlumab-tesirine-adct-301-humax-tac-adc",
+    "organ_tags": [
+      "blood",
+      "lymphatic_system"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "TERMINATED"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT03621982",
+        "title": "Study of ADCT-301 in Patients With Selected Advanced Solid Tumors",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2018-11-09",
+        "sponsor": "ADC Therapeutics S.A.",
+        "conditions": [
+          "Head and Neck Cancer Squamous Cell Carcinoma",
+          "Non-small Cell Lung Cancer",
+          "Gastric Cancer",
+          "Esophageal Cancer",
+          "Pancreas Cancer",
+          "Bladder Cancer",
+          "Renal Cell Carcinoma",
+          "Melanoma",
+          "Triple-negative Breast Cancer",
+          "Ovarian Cancer",
+          "Colo-rectal Cancer",
+          "Fallopian Tube Cancer"
+        ],
+        "gyn_conditions": [
+          "Fallopian Tube Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "ADCT-301",
+          "Pembrolizumab"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "5661",
+    "name": "CDX-014",
+    "synonyms": [],
+    "name_full": "CDX-014",
+    "company": "Celldex Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/cdx-014/",
+    "slug": "cdx-014",
+    "organ_tags": [
+      "kidneys"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "TERMINATED"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT02837991",
+        "title": "A Dose Escalation, Safety and Activity Study of CDX-014 in Patients With Renal Cell Carcinoma and Ovarian Clear Cell Carcinoma",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2016-06",
+        "sponsor": "Celldex Therapeutics",
+        "conditions": [
+          "Renal Cell Carcinoma (RCC)",
+          "Clear-cell Renal Cell Carcinoma",
+          "Papillary Renal Cell Carcinoma",
+          "Kidney Neoplasms",
+          "Metastatic Renal Cell Carcinoma",
+          "Ovarian Clear Cell Carcinoma"
+        ],
+        "gyn_conditions": [
+          "Ovarian Clear Cell Carcinoma"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "CDX-014"
+        ],
+        "pmids": [
+          "32472319"
+        ]
+      }
+    ],
+    "trial_pmids": [
+      "32472319"
+    ]
+  },
+  {
+    "itemid": "18573",
+    "name": "CUSP06",
+    "synonyms": [],
+    "name_full": "CUSP06",
+    "company": "OnCusp Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/cusp06/",
+    "slug": "cusp06",
+    "organ_tags": [
+      "kidneys",
+      "ovaries",
+      "ureter"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06234423",
+        "title": "A Study of CUSP06 in Patients With Platinum-Refractory/Resistant Ovarian Cancer and Other Advanced Solid Tumors",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2024-02-09",
+        "sponsor": "OnCusp Therapeutics, Inc.",
+        "conditions": [
+          "Ovarian Cancer",
+          "Solid Tumor"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "CUSP06"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6765",
+    "name": "Enapotamab vedotin",
+    "synonyms": [
+      "HuMax-AXL-ADC",
+      "AXL-107-MMAE"
+    ],
+    "name_full": "Enapotamab vedotin | HuMax-AXL-ADC | AXL-107-MMAE",
+    "company": "Genmab in collaboration with Seattle Genetics",
+    "url": "https://www.adcreview.com/drugmap/humax-axl-adc/",
+    "slug": "humax-axl-adc",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "COMPLETED"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT02988817",
+        "title": "Enapotamab Vedotin (HuMax-AXL-ADC) Safety Study in Patients With Solid Tumors",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2016-11-23",
+        "sponsor": "Genmab",
+        "conditions": [
+          "Ovarian Cancer",
+          "Cervical Cancer",
+          "Endometrial Cancer",
+          "Non Small Cell Lung Cancer (NSCLC)",
+          "Thyroid Cancer",
+          "Melanoma",
+          "Sarcoma",
+          "Solid Tumors"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer",
+          "Endometrial Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "Enapotamab vedotin (HuMax-AXL-ADC)"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1045",
+    "name": "Enfortumab Vedotin",
+    "synonyms": [
+      "Padcev",
+      "ASG-22ME",
+      "ASG-22MSE"
+    ],
+    "name_full": "Enfortumab Vedotin | Padcev | ASG-22ME | ASG-22MSE",
+    "company": "Astellas Pharma (Agensys) / Seattle Genetics",
+    "url": "https://www.adcreview.com/drugmap/asg-22me/",
+    "slug": "asg-22me",
+    "organ_tags": [
+      "bladder",
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "NOT_YET_RECRUITING"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07139977",
+        "title": "Study of EV for Recurrent Endometrial Carcinoma",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2026-04-01",
+        "sponsor": "William Bradley",
+        "conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "Enfortumab Vedotin"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6898",
+    "name": "Farletuzumab Ecteribulin",
+    "synonyms": [
+      "MORAb-202"
+    ],
+    "name_full": "Farletuzumab Ecteribulin | MORAb-202",
+    "company": "Morphotek®, a subsidiary of Eisai Eisai Co Bristol Myers Squibb",
+    "url": "https://www.adcreview.com/drugmap/farletuzumab-ecteribulin-morab-202/",
+    "slug": "farletuzumab-ecteribulin-morab-202",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries",
+      "stomach"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "COMPLETED"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT05613088",
+        "title": "A Study of MORAb-202 Versus Investigator's Choice Chemotherapy in Female Participants With Platinum-resistant High-grade Serous (HGS) Ovarian, Primary Peritoneal, or Fallopian Tube Cancer",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2023-02-01",
+        "sponsor": "Bristol-Myers Squibb",
+        "conditions": [
+          "Neoplasms, Ovarian"
+        ],
+        "gyn_conditions": [
+          "Neoplasms, Ovarian"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "MORAb-202",
+          "Paclitaxel",
+          "Pegylated Liposomal Doxorubicin (PLD)",
+          "Topotecan"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "20919",
+    "name": "Felmetatug Vedotin",
+    "synonyms": [
+      "PF-08046048",
+      "SGN-B7H4V"
+    ],
+    "name_full": "Felmetatug Vedotin | PF-08046048 | SGN-B7H4V",
+    "company": "Pfizer (SeaGen)",
+    "url": "https://www.adcreview.com/drugmap/felmetatug-vedotin-pf-08046048-sgn-b7h4v/",
+    "slug": "felmetatug-vedotin-pf-08046048-sgn-b7h4v",
+    "organ_tags": [
+      "breast",
+      "ovaries",
+      "stomach"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "TERMINATED"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT05194072",
+        "title": "A Study of Felmetatug Vedotin/SGN-B7H4V in Advanced Solid Tumors",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2022-01-12",
+        "sponsor": "Seagen, a wholly owned subsidiary of Pfizer",
+        "conditions": [
+          "Ovarian Neoplasms",
+          "Peritoneal Neoplasms",
+          "Fallopian Tube Neoplasms",
+          "Triple Negative Breast Neoplasms",
+          "HER2 Negative Breast Neoplasms",
+          "Hormone Receptor Positive Breast Neoplasms",
+          "Endometrial Neoplasms",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Cholangiocarcinoma",
+          "Gallbladder Carcinoma",
+          "Adenoid Cystic Carcinoma"
+        ],
+        "gyn_conditions": [
+          "Endometrial Neoplasms",
+          "Fallopian Tube Neoplasms",
+          "Ovarian Neoplasms"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "Felmetatug Vedotin",
+          "Pembrolizumab"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "7501",
+    "name": "GM103",
+    "synonyms": [],
+    "name_full": "GM103",
+    "company": "GamaMabs",
+    "url": "https://www.adcreview.com/drugmap/gm103/",
+    "slug": "gm103",
+    "organ_tags": [],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06265025",
+        "title": "GM103 Intratumoral Injection in Patients With Locally Advanced, Unresectable, Refractory and/or Metastatic Solid Tumors",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2024-02-20",
+        "sponsor": "GeneMedicine Co., Ltd.",
+        "conditions": [
+          "Head and Neck Cancer",
+          "Malignant Melanoma",
+          "Colorectal Cancer",
+          "Renal Cell Carcinoma",
+          "Cervical Cancer",
+          "Breast Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical"
+        ],
+        "interventions": [
+          "GM103 (Part A)",
+          "GM103 (Part B)",
+          "GM103 and Pembrolizumab (Part C)"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "19055",
+    "name": "HBM9033",
+    "synonyms": [
+      "PF-08052666"
+    ],
+    "name_full": "HBM9033 | PF-08052666",
+    "company": "Harbour BioMed's Wholly-owned Subsidiary, Nona Biosciences MediLink Therapeutics Pfizer",
+    "url": "https://www.adcreview.com/drugmap/hbm9033/",
+    "slug": "hbm9033",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries",
+      "pancreas"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "TERMINATED"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06466187",
+        "title": "A Study of SGN-MesoC2 in Advanced Solid Tumors",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2024-08-02",
+        "sponsor": "Seagen, a wholly owned subsidiary of Pfizer",
+        "conditions": [
+          "Carcinoma, Non-Small-Cell Lung",
+          "Ovarian Neoplasms",
+          "Pancreatic Adenocarcinoma",
+          "Colorectal Neoplasms",
+          "Mesothelioma",
+          "Other Solid Tumors",
+          "Endometrial"
+        ],
+        "gyn_conditions": [
+          "Endometrial",
+          "Ovarian Neoplasms"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "PF-08052666"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "18975",
+    "name": "HLX43",
+    "synonyms": [],
+    "name_full": "HLX43",
+    "company": "Shanghai Henlius Biotech",
+    "url": "https://www.adcreview.com/drugmap/hlx43/",
+    "slug": "hlx43",
+    "organ_tags": [],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06769152",
+        "title": "A Phase II Clinical Study to Evaluate the Efficacy and Safety of HLX43 (Anti-PD-L1 ADC) in Patients With Advanced Gynecological Malignant Tumors",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2025-02-20",
+        "sponsor": "Shanghai Henlius Biotech",
+        "conditions": [
+          "Cervical Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "ovarian"
+        ],
+        "interventions": [
+          "HLX43"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "22364",
+    "name": "LNCB74",
+    "synonyms": [],
+    "name_full": "LNCB74",
+    "company": "NextCure co-development rights with LigaChem Biosciences",
+    "url": "https://www.adcreview.com/drugmap/lncb74/",
+    "slug": "lncb74",
+    "organ_tags": [
+      "breast"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06774963",
+        "title": "A Phase 1 Study of LNCB74 in Advanced Solid Tumors",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2025-01-07",
+        "sponsor": "NextCure, Inc.",
+        "conditions": [
+          "Ovarian Cancer",
+          "Breast Cancer",
+          "Endometrial Cancer",
+          "Biliary Tract Cancer",
+          "Non-Small Cell Lung Cancer",
+          "Advanced or Metastatic Solid Tumors"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "LNCB74"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "22707",
+    "name": "LY4052031",
+    "synonyms": [],
+    "name_full": "LY4052031",
+    "company": "Eli Lilly & Co",
+    "url": "https://www.adcreview.com/drugmap/ly4052031/",
+    "slug": "ly4052031",
+    "organ_tags": [
+      "bladder"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06465069",
+        "title": "A Study of LY4052031 in Participants With Advanced or Metastatic Urothelial Cancer or Other Solid Tumors",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2024-07-01",
+        "sponsor": "Eli Lilly and Company",
+        "conditions": [
+          "Metastatic Solid Tumor",
+          "Recurrent Solid Tumor",
+          "Advanced Solid Tumor",
+          "Urinary Bladder Neoplasm",
+          "Triple Negative Breast Cancer",
+          "Non-small Cell Lung Cancer",
+          "Esophageal Cancer",
+          "Pancreatic Cancer",
+          "Ovarian Cancer",
+          "Cervical Cancer",
+          "Head and Neck Squamous Cell Carcinoma",
+          "Prostate Cancer",
+          "Renal Pelvis Cancer",
+          "Bladder Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "ovarian"
+        ],
+        "interventions": [
+          "LY4052031"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "17127",
+    "name": "LY4101174",
+    "synonyms": [
+      "ETx-22"
+    ],
+    "name_full": "LY4101174 | ETx-22",
+    "company": "Emergence Therapeutics, a German biotechnology startup focused on antibody-drug conjugates, was acquired in 2023 by Eli Lilly & Co.",
+    "url": "https://www.adcreview.com/drugmap/etx-22-is-an-next-gen-anti-nectin-4-adc/",
+    "slug": "etx-22-is-an-next-gen-anti-nectin-4-adc",
+    "organ_tags": [
+      "bladder",
+      "breast",
+      "lungs"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "ACTIVE_NOT_RECRUITING"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06238479",
+        "title": "A Study of LY4101174 in Participants With Recurrent, Advanced or Metastatic Solid Tumors",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2024-03-05",
+        "sponsor": "Eli Lilly and Company",
+        "conditions": [
+          "Metastatic Solid Tumor",
+          "Recurrent Solid Tumor",
+          "Advanced Solid Tumor",
+          "Urinary Bladder Neoplasm",
+          "Triple Negative Breast Cancer",
+          "Non-small Cell Lung Cancer",
+          "Esophageal Cancer",
+          "Pancreatic Cancer",
+          "Ovarian Cancer",
+          "Cervical Cancer",
+          "Head and Neck Squamous Cell Carcinoma",
+          "Prostate Cancer",
+          "Renal Pelvis Cancer",
+          "Bladder Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "ovarian"
+        ],
+        "interventions": [
+          "LY4101174"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "20263",
+    "name": "MGC026",
+    "synonyms": [],
+    "name_full": "MGC026",
+    "company": "MacroGenics",
+    "url": "https://www.adcreview.com/drugmap/mgc026/",
+    "slug": "mgc026",
+    "organ_tags": [],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06242470",
+        "title": "A Study of MGC026 in Participants With Advanced Solid Tumors",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2024-03-06",
+        "sponsor": "MacroGenics",
+        "conditions": [
+          "Advanced Solid Tumor",
+          "Advanced Cancer",
+          "Metastatic Cancer",
+          "Squamous Cell Carcinoma of Head and Neck",
+          "Non Small Cell Lung Cancer",
+          "Small-cell Lung Cancer",
+          "Bladder Cancer",
+          "Sarcoma",
+          "Endometrial Cancer",
+          "Melanoma",
+          "Castration Resistant Prostatic Cancer",
+          "Cervical Cancer",
+          "Colorectal Cancer",
+          "Gastric Cancer",
+          "Gastro-esophageal Cancer",
+          "Pancreas Cancer",
+          "Clear Cell Renal Cell Carcinoma",
+          "Hepatocellular Carcinoma",
+          "Platinum-resistant Ovarian Cancer",
+          "Breast Cancer",
+          "Ovarian Cancer",
+          "Esophageal Squamous Cell Cancer (SCC)"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer",
+          "Endometrial Cancer",
+          "Ovarian Cancer",
+          "Platinum-resistant Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "MGC026 Dose Escalation",
+          "MGC026 Dose for Expansion"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "14620",
+    "name": "PEN-866",
+    "synonyms": [],
+    "name_full": "PEN-866",
+    "company": "Tarveda Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/pen-866/",
+    "slug": "pen-866",
+    "organ_tags": [],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "endometrial",
+      "vulvar_vaginal"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "UNKNOWN"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT03221400",
+        "title": "PEN-866 in Patients With Advanced Solid Malignancies",
+        "status": "UNKNOWN",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2017-08-29",
+        "sponsor": "Tarveda Therapeutics",
+        "conditions": [
+          "Carcinoma",
+          "Endometrial Adenocarcinoma",
+          "Neoplasms",
+          "Squamous Cell Carcinoma of the Anus",
+          "Adenocarcinoma of the Pancreas",
+          "Advanced Cancer",
+          "Solid Tumor",
+          "Solid Carcinoma",
+          "Squamous Cell Carcinoma of the Cervix",
+          "Squamous Cell Carcinoma",
+          "Squamous Cell Carcinoma of the Vulva",
+          "Squamous Cell Carcinoma of the Penis",
+          "Gastric Cancer",
+          "Gastric Adenocarcinoma",
+          "Gastroesophageal Junction Adenocarcinoma",
+          "Small-cell Lung Cancer",
+          "Small Cell Lung Carcinoma",
+          "Pancreatic Ductal Adenocarcinoma",
+          "Pancreatic Adenocarcinoma"
+        ],
+        "gyn_conditions": [
+          "Endometrial Adenocarcinoma",
+          "Squamous Cell Carcinoma of the Cervix",
+          "Squamous Cell Carcinoma of the Vulva"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial",
+          "vulvar_vaginal"
+        ],
+        "interventions": [
+          "PEN-866 Sodium",
+          "fluorouracil",
+          "Folinic acid",
+          "Niraparib"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "18121",
+    "name": "Puxitatug samrotecan",
+    "synonyms": [
+      "AZD8205"
+    ],
+    "name_full": "Puxitatug samrotecan | AZD8205",
+    "company": "AstraZeneca",
+    "url": "https://www.adcreview.com/drugmap/puxitatug-samrotecan/",
+    "slug": "puxitatug-samrotecan",
+    "organ_tags": [],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07044336",
+        "title": "Puxitatug Samrotecan (AZD8205) Monotherapy vs Chemotherapy in B7-H4-selected Endometrial Cancer (Bluestar-Endometrial01)",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2025-08-01",
+        "sponsor": "AstraZeneca",
+        "conditions": [
+          "Endometrial Cancer",
+          "Malignant Solid Tumour"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "Puxitatug Samrotecan",
+          "Doxorubicin",
+          "Paclitaxel"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "22382",
+    "name": "QLS5132",
+    "synonyms": [],
+    "name_full": "QLS5132",
+    "company": "Qilu Pharmaceutical Co.",
+    "url": "https://www.adcreview.com/drugmap/qls5132/",
+    "slug": "qls5132",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "NOT_YET_RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07453394",
+        "title": "QLS5132 Combination Therapy in Advanced Solid Tumors",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2026-04",
+        "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+        "conditions": [
+          "Gastric Cancer (GC)",
+          "Non-small Cell Lung Cancer (NSCLC)",
+          "Endometrial Cancer",
+          "Advanced Solid Tumors",
+          "Ovarian Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer",
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "QLS5132; Bevacizumab",
+          "QLS5132; Platinum; Bevacizumab",
+          "QLS5132; Olaparib; Bevacizumab",
+          "QLS5132; QL1706; QL2107",
+          "QLS5132; QL1706; QL2107; Carboplatin; Cisplatin; Oxaliplatin"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "18874",
+    "name": "Raludotatug Deruxtecan",
+    "synonyms": [
+      "DS-6000a R-DXd"
+    ],
+    "name_full": "Raludotatug Deruxtecan | DS-6000a R-DXd",
+    "company": "Daiichi Sankyo and Merck & Co (known as MSD outside of the United States and Canada).",
+    "url": "https://www.adcreview.com/drugmap/raludotatug-deruxtecan-ds-6000a-r-dxd/",
+    "slug": "raludotatug-deruxtecan-ds-6000a-r-dxd",
+    "organ_tags": [
+      "kidneys",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06843447",
+        "title": "A Clinical Study of Raludotatug Deruxtecan in People With Ovarian Cancer (MK-5909-003)",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2025-04-15",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "conditions": [
+          "Ovarian Cancer Recurrent"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer Recurrent"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Raludotatug Deruxtecan",
+          "Carboplatin",
+          "Paclitaxel",
+          "Bevacizumab",
+          "Rescue Medication",
+          "Pembrolizumab",
+          "Gemcitabine",
+          "Pegylated liposomal doxorubicin"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1061",
+    "name": "SGN-15",
+    "synonyms": [
+      "BMS-182248",
+      "BR96-DOX"
+    ],
+    "name_full": "SGN-15 | BMS-182248 | BR96-DOX",
+    "company": "Seattle Genetics (Licensed from Bristol-Myers Squibb (BMS) with technology licensed from Enzon)",
+    "url": "https://www.adcreview.com/drugmap/sgn-15-bms-182248-br96-dox/",
+    "slug": "sgn-15-bms-182248-br96-dox",
+    "organ_tags": [
+      "blood",
+      "bone_marrow",
+      "breast",
+      "lungs",
+      "prostate"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "TERMINATED"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT00051584",
+        "title": "Safety/Efficacy Study of SGN-15 (Antibody-Drug Conjugate) Combined With Gemcitabine in Patients With Ovarian Cancer",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "",
+        "sponsor": "Seagen Inc.",
+        "conditions": [
+          "Ovarian Neoplasms"
+        ],
+        "gyn_conditions": [
+          "Ovarian Neoplasms"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "SGN-15 (cBR96-Doxorubicin Immunoconjugate)",
+          "Gemzar (Gemcitabine)"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "16281",
+    "name": "SGN-PDL1V",
+    "synonyms": [
+      "PF-08046054"
+    ],
+    "name_full": "SGN-PDL1V | PF-08046054",
+    "company": "Seagen (Pfizer)",
+    "url": "https://www.adcreview.com/drugmap/sgn-pdl1v/",
+    "slug": "sgn-pdl1v",
+    "organ_tags": [
+      "lungs"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT05208762",
+        "title": "A Study of PF-08046054/SGN-PDL1V in Advanced Solid Tumors",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2022-10-25",
+        "sponsor": "Seagen, a wholly owned subsidiary of Pfizer",
+        "conditions": [
+          "Carcinoma, Non-Small-Cell Lung",
+          "Squamous Cell Carcinoma of the Head and Neck",
+          "Esophageal Squamous Cell Carcinoma",
+          "Triple Negative Breast Neoplasms",
+          "Gastric Cancer",
+          "Endometrial Cancer",
+          "Pancreatic Adenocarcinoma",
+          "Hepatocellular Carcinoma"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "PF-08046054",
+          "pembrolizumab"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "19106",
+    "name": "Sigvotatug vedotin",
+    "synonyms": [
+      "SGN-B6A",
+      "PF-08046047"
+    ],
+    "name_full": "Sigvotatug vedotin | SGN-B6A | PF-08046047",
+    "company": "Seagen (Pfizer)",
+    "url": "https://www.adcreview.com/drugmap/sgn-b6a/",
+    "slug": "sgn-b6a",
+    "organ_tags": [
+      "bladder",
+      "lungs",
+      "pancreas"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial",
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT04389632",
+        "title": "A Study of Sigvotatug Vedotin in Advanced Solid Tumors",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2020-06-08",
+        "sponsor": "Seagen, a wholly owned subsidiary of Pfizer",
+        "conditions": [
+          "Carcinoma, Non-Small Cell Lung",
+          "Squamous Cell Carcinoma of Head and Neck",
+          "HER2 Negative Breast Neoplasms",
+          "Esophageal Squamous Cell Carcinoma",
+          "Esophageal Adenocarcinoma",
+          "Gastroesophageal Junction Adenocarcinoma",
+          "Ovarian Neoplasms",
+          "Cutaneous Squamous Cell Cancer",
+          "Exocrine Pancreatic Adenocarcinoma",
+          "Urinary Bladder Neoplasms",
+          "Uterine Cervical Neoplasms",
+          "Stomach Neoplasms"
+        ],
+        "gyn_conditions": [
+          "Ovarian Neoplasms",
+          "Uterine Cervical Neoplasms"
+        ],
+        "gyn_subtypes": [
+          "endometrial",
+          "ovarian"
+        ],
+        "interventions": [
+          "sigvotatug vedotin",
+          "pembrolizumab",
+          "cisplatin",
+          "carboplatin"
+        ],
+        "pmids": [
+          "37619980"
+        ]
+      }
+    ],
+    "trial_pmids": [
+      "37619980"
+    ]
+  },
+  {
+    "itemid": "7478",
+    "name": "ST1",
+    "synonyms": [],
+    "name_full": "ST1",
+    "company": "Siamab Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/st1/",
+    "slug": "st1",
+    "organ_tags": [
+      "colon",
+      "ovaries",
+      "pancreas",
+      "prostate"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "COMPLETED"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06578039",
+        "title": "Phase 1 Clinical Trial of CordSTEM-ST",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2024-08-30",
+        "sponsor": "CHABiotech CO., Ltd",
+        "conditions": [
+          "Premature Ovarian Insufficiency"
+        ],
+        "gyn_conditions": [
+          "Premature Ovarian Insufficiency"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "umbilical cord-derived mesenchymal stem cell"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "19111",
+    "name": "STRO-004",
+    "synonyms": [],
+    "name_full": "STRO-004",
+    "company": "SUTRO",
+    "url": "https://www.adcreview.com/drugmap/stro-004/",
+    "slug": "stro-004",
+    "organ_tags": [
+      "breast",
+      "lungs"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "endometrial"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07227168",
+        "title": "A Study of STRO-004 in Adults With Refractory/Recurrent Metastatic Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2025-11-07",
+        "sponsor": "Sutro Biopharma, Inc.",
+        "conditions": [
+          "Head and Neck Squamous Cell Carcinoma HNSCC",
+          "Non-Small Cell Lung Cancer NSCLC",
+          "Esophageal Cancer",
+          "Gastric Cancer",
+          "Colorectal Cancer",
+          "Pancreatic Ductal Adenocarcinoma (PDAC)",
+          "Cervical Cancer",
+          "Endometrial Cancer",
+          "Urothelial Cancer"
+        ],
+        "gyn_conditions": [
+          "Cervical Cancer",
+          "Endometrial Cancer"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial"
+        ],
+        "interventions": [
+          "STRO-004",
+          "Pembrolizumab"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "18079",
+    "name": "Telisotuzumab Adizutecan",
+    "synonyms": [
+      "ABBV-400"
+    ],
+    "name_full": "Telisotuzumab Adizutecan | ABBV-400",
+    "company": "Abbvie",
+    "url": "https://www.adcreview.com/drugmap/abbv-400/",
+    "slug": "abbv-400",
+    "organ_tags": [
+      "colon",
+      "lungs"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT05005403",
+        "title": "Study to Assess Adverse Events and Pharmacokinetics in Adult Participants With Non-Small Cell Lung Cancer, Head and Neck Squamous Cell Carcinoma and Other Solid Tumors, Receiving Intravenous Infusion of Azirkitug Alone or in Combination(s) With Budigalimab, Bevacizumab, or Telisotuzumab Adizutecan",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2021-11-01",
+        "sponsor": "AbbVie",
+        "conditions": [
+          "Non-Small Cell Lung Cancer",
+          "Head and Neck Squamous Cell Carcinoma",
+          "Micro Satellite Stable Colorectal Cancer",
+          "Gastric/Esophageal Cancer",
+          "High-Grade Serous Ovarian Cancer",
+          "Pancreatic Cancer",
+          "Triple Negative Breast Cancer"
+        ],
+        "gyn_conditions": [
+          "High-Grade Serous Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Azirkitug",
+          "Budigalimab",
+          "Bevacizumab",
+          "Telisotuzumab Adizutecan"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "17130",
+    "name": "Trastuzumab Pamirtecan",
+    "synonyms": [
+      "DB-1303",
+      "BNT323"
+    ],
+    "name_full": "Trastuzumab Pamirtecan | DB-1303 | BNT323",
+    "company": "Duality Biologics in collaboration with BionTech",
+    "url": "https://www.adcreview.com/drugmap/db-1303/",
+    "slug": "db-1303",
+    "organ_tags": [
+      "ovaries",
+      "ureter",
+      "urethra",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "endometrial"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06340568",
+        "title": "A Clinical Study of the Anti-cancer Effects of an Investigational Therapy or Chemotherapy in Patients With Recurring Uterine Cancer",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE3"
+        ],
+        "start": "2025-06-10",
+        "sponsor": "BioNTech SE",
+        "conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_conditions": [
+          "Endometrial Cancer"
+        ],
+        "gyn_subtypes": [
+          "endometrial"
+        ],
+        "interventions": [
+          "BNT323/DB-1303",
+          "Doxorubicin",
+          "Paclitaxel",
+          "Docetaxel"
+        ],
+        "pmids": [
+          "40966692"
+        ]
+      }
+    ],
+    "trial_pmids": [
+      "40966692"
+    ]
+  },
+  {
+    "itemid": "18459",
+    "name": "Trastuzumab rezetecan",
+    "synonyms": [
+      "SHR-A1811"
+    ],
+    "name_full": "Trastuzumab rezetecan | SHR-A1811",
+    "company": "Jiangsu Hengrui Pharmaceuticals (partnering with Luzsana Biotechnology for international development)",
+    "url": "https://www.adcreview.com/drugmap/trastuzumab-rezetecan-shr-a1811/",
+    "slug": "trastuzumab-rezetecan-shr-a1811",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "stomach"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "cervical",
+      "endometrial"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "NOT_YET_RECRUITING"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT07631884",
+        "title": "Exploratory Study on the Efficacy and Safety of Trastuzumab Rezetecan in the Treatment of HER2-Expressiong Advanced Solid Tumor",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2026-06-15",
+        "sponsor": "Haihua Yuan",
+        "conditions": [
+          "Solid Tumors",
+          "Neoplasms (Cancer / Tumors)",
+          "Advanced Malignant Solid Neoplasm",
+          "Locally Advanced Malignant Solid Neoplasm",
+          "Unresectable Malignant Solid Neoplasm",
+          "Metastatic Malignant Solid Neoplasm",
+          "HER2 Expression",
+          "Biliary Tract Neoplasms",
+          "Endometrial Neoplasms",
+          "Urothelial Carcinoma (UC)",
+          "Pancreatic Neoplasms",
+          "Colorectal Neoplasms",
+          "Gastric Neoplasms",
+          "Non-Small Cell Lung Carcinoma (NSCLC)",
+          "Head and Neck Neoplasms",
+          "Cervical Neoplasms"
+        ],
+        "gyn_conditions": [
+          "Cervical Neoplasms",
+          "Endometrial Neoplasms"
+        ],
+        "gyn_subtypes": [
+          "cervical",
+          "endometrial"
+        ],
+        "interventions": [
+          "Trastuzumab Rezetecan"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "20719",
+    "name": "TUB-040",
+    "synonyms": [],
+    "name_full": "TUB-040",
+    "company": "Tubulis",
+    "url": "https://www.adcreview.com/drugmap/tub-040/",
+    "slug": "tub-040",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06303505",
+        "title": "FiH Study to Investigate Safety, PK and Efficacy of the NaPi2b ADC TUB-040 in Patients With PROC or r/r Adenocarcinoma NSCLC",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2024-06-12",
+        "sponsor": "Tubulis GmbH",
+        "conditions": [
+          "Ovarian Cancer",
+          "Non-small Cell Lung Cancer"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "TUB-040"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6793",
+    "name": "Vobramitamab Duocarmazine",
+    "synonyms": [
+      "Anti-B7-H3 ADC",
+      "MGC018",
+      "AEX4089DC1"
+    ],
+    "name_full": "Vobramitamab Duocarmazine | Anti-B7-H3 ADC | MGC018 | AEX4089DC1",
+    "company": "MacroGenics",
+    "url": "https://www.adcreview.com/drugmap/vobramitamab-duocarmazine-anti-b7-h3-adc-mgc018-aex4089dc1/",
+    "slug": "vobramitamab-duocarmazine-anti-b7-h3-adc-mgc018-aex4089dc1",
+    "organ_tags": [
+      "lungs",
+      "prostate"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "COMPLETED"
+    ],
+    "phases": [
+      "PHASE1"
+    ],
+    "trials": [
+      {
+        "nct": "NCT05293496",
+        "title": "A Study of MGC018 in Combination With MGD019 in Participants With Advanced Solid Tumors",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1"
+        ],
+        "start": "2022-04-19",
+        "sponsor": "MacroGenics",
+        "conditions": [
+          "Advanced Solid Tumor",
+          "Castration-Resistant Prostatic Cancer",
+          "Malignant Melanoma",
+          "Pancreatic Ductal Carcinoma",
+          "Hepatocellular Cancer",
+          "Epithelial Ovarian Cancer",
+          "Renal Cell Carcinoma"
+        ],
+        "gyn_conditions": [
+          "Epithelial Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "vobramitamab duocarmazine",
+          "lorigerlimab"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "21209",
+    "name": "XNW27011",
+    "synonyms": [],
+    "name_full": "XNW27011",
+    "company": "Evopoint Biosciences in collaboration with Astellas Pharma",
+    "url": "https://www.adcreview.com/drugmap/xnw27011/",
+    "slug": "xnw27011",
+    "organ_tags": [
+      "stomach"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "RECRUITING"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT06792435",
+        "title": "XNW27011 Study of Advanced Solid Tumor Subjects Who Failed Standard Therapies.",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2023-07-27",
+        "sponsor": "Evopoint Biosciences Inc.",
+        "conditions": [
+          "Pancreatic Adenocarcinoma Metastatic",
+          "Lung Cancer (NSCLC)",
+          "Ovarian Cancer",
+          "Colorectal Cancer Metastatic",
+          "Biliary Tract Cancer",
+          "Gastric Carcinoma",
+          "Gastroesophageal Junction Adenocarcinoma"
+        ],
+        "gyn_conditions": [
+          "Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "XNW27011",
+          "XNW27011"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "18157",
+    "name": "ZB131",
+    "synonyms": [
+      "ZB131-MMAE (ADC)",
+      "ZB131-DXd (ADC)"
+    ],
+    "name_full": "ZB131 | ZB131-MMAE (ADC) | ZB131-DXd (ADC)",
+    "company": "ZielBio, Inc.",
+    "url": "https://www.adcreview.com/drugmap/zb131-adc/",
+    "slug": "zb131-adc",
+    "organ_tags": [],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "COMPLETED"
+    ],
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT05074472",
+        "title": "A Phase 1/2, First-in-Human, Open Label, Dose Escalation Study Of A CSP Targeting Functional Antibody in Solid Tumors",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "start": "2022-01-14",
+        "sponsor": "ZielBio, Inc.",
+        "conditions": [
+          "Solid Tumor, Adult",
+          "Pancreatic Ductal; Adenocarcinoma",
+          "Ovarian Serous Adenocarcinoma",
+          "Biliary Cancer Metastatic",
+          "Ovarian Serous Cystadenocarcinoma"
+        ],
+        "gyn_conditions": [
+          "Ovarian Serous Adenocarcinoma",
+          "Ovarian Serous Cystadenocarcinoma"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "ZB131"
+        ],
+        "pmids": []
+      }
+    ],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "14670",
+    "name": "Zilovertamab vedotin",
+    "synonyms": [
+      "VLS-101",
+      "MK-2140"
+    ],
+    "name_full": "Zilovertamab vedotin | VLS-101 | MK-2140",
+    "company": "Merck & Co (VelosBio)",
+    "url": "https://www.adcreview.com/drugmap/zilovertamab-vedotin-vls-101-is-an-antibody-drug-conjugates-velosbio/",
+    "slug": "zilovertamab-vedotin-vls-101-is-an-antibody-drug-conjugates-velosbio",
+    "organ_tags": [
+      "blood",
+      "lymphatic_system"
+    ],
+    "site_tagged_gyn": false,
+    "ctgov_confirmed": true,
+    "gyn_subtypes": [
+      "ovarian"
+    ],
+    "n_gyn_trials": 1,
+    "statuses": [
+      "TERMINATED"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "trials": [
+      {
+        "nct": "NCT04504916",
+        "title": "A Study of Zilovertamab Vedotin (MK-2140/VLS-101) in Participants With Solid Tumors (MK-2140-002)",
+        "status": "TERMINATED",
+        "phases": [
+          "PHASE2"
+        ],
+        "start": "2020-10-07",
+        "sponsor": "VelosBio Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
+        "conditions": [
+          "Triple-negative Breast Cancer",
+          "Non-squamous Non-small-cell Lung Cancer",
+          "NSCLC",
+          "Estrogen-receptor-positive Breast Cancer",
+          "Progesterone-receptor-positive Breast Cancer",
+          "Estrogen-receptor-negative Breast Cancer",
+          "ER-negative Breast Cancer",
+          "Progesterone-receptor Negative Breast Cancer",
+          "PR-negative Breast Cancer",
+          "HER2-negative Breast Cancer",
+          "ER-positive Breast Cancer",
+          "PR-positive Breast Cancer",
+          "Platinum-resistant Ovarian Cancer",
+          "Gastric Cancer",
+          "Pancreatic Cancer"
+        ],
+        "gyn_conditions": [
+          "Platinum-resistant Ovarian Cancer"
+        ],
+        "gyn_subtypes": [
+          "ovarian"
+        ],
+        "interventions": [
+          "Zilovertamab vedotin"
+        ],
+        "pmids": [
+          "34398557",
+          "40762544"
+        ]
+      }
+    ],
+    "trial_pmids": [
+      "34398557",
+      "40762544"
+    ]
+  },
+  {
+    "itemid": "6744",
+    "name": "AB-3A4 ADC",
+    "synonyms": [],
+    "name_full": "AB-3A4 ADC",
+    "company": "Alethia Biotherapeutics",
+    "url": "https://www.adcreview.com/drugmap/ab-3a4-adc/",
+    "slug": "ab-3a4-adc",
+    "organ_tags": [
+      "breast",
+      "ovaries",
+      "prostate"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "5682",
+    "name": "AbGn-108",
+    "synonyms": [],
+    "name_full": "AbGn-108",
+    "company": "AbGenomics International",
+    "url": "https://www.adcreview.com/drugmap/abgn-108/",
+    "slug": "abgn-108",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "21032",
+    "name": "ADRX-0134",
+    "synonyms": [],
+    "name_full": "ADRX-0134",
+    "company": "Adcentrx Therapeutics",
+    "url": "https://www.adcreview.com/drugmap/adrx-0134/",
+    "slug": "adrx-0134",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6796",
+    "name": "anti-HER-3 ADC",
+    "synonyms": [],
+    "name_full": "anti-HER-3 ADC",
+    "company": "MediaPharma",
+    "url": "https://www.adcreview.com/drugmap/anti-3-adc-tem-1-adc/",
+    "slug": "anti-3-adc-tem-1-adc",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "melanocytes",
+      "ovaries",
+      "pancreas",
+      "stomach"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1065",
+    "name": "ARX788 HER2 ADC",
+    "synonyms": [
+      "ARX788"
+    ],
+    "name_full": "ARX788 HER2 ADC | ARX788",
+    "company": "Zhejiang Medicine Co. | Ambrx",
+    "url": "https://www.adcreview.com/drugmap/arx788/",
+    "slug": "arx788",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1058",
+    "name": "BAY79-4620",
+    "synonyms": [],
+    "name_full": "BAY79-4620",
+    "company": "Bayer HealthCare",
+    "url": "https://www.adcreview.com/drugmap/bay-79-4620-3ee9/",
+    "slug": "bay-79-4620-3ee9",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1063",
+    "name": "BIIB-015",
+    "synonyms": [
+      "BIIB015"
+    ],
+    "name_full": "BIIB-015 | BIIB015",
+    "company": "Biogen",
+    "url": "https://www.adcreview.com/drugmap/biib-015/",
+    "slug": "biib-015",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "4456",
+    "name": "Cantuzumab mertansine",
+    "synonyms": [
+      "huC242-DM1",
+      "SB-408075"
+    ],
+    "name_full": "Cantuzumab mertansine | huC242-DM1 | SB-408075",
+    "company": "GlaxoSmithKline (GSK) / ImmunoGen",
+    "url": "https://www.adcreview.com/drugmap/cantuzumab-mertansine-huc242-dm1/",
+    "slug": "cantuzumab-mertansine-huc242-dm1",
+    "organ_tags": [
+      "colon",
+      "lungs",
+      "pancreas",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "7417",
+    "name": "CMB-401",
+    "synonyms": [
+      "hCTMO1-calicheamicin",
+      "CDP-671"
+    ],
+    "name_full": "CMB-401 | hCTMO1-calicheamicin | CDP-671",
+    "company": "Pfizer (Wyeth Pharmaceuticals); Celltech",
+    "url": "https://www.adcreview.com/drugmap/cmb-401-hctmo1-calicheamicin-cdp-671/",
+    "slug": "cmb-401-hctmo1-calicheamicin-cdp-671",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "5625",
+    "name": "Cofetuzumab Pelidotin",
+    "synonyms": [
+      "PF-06647020",
+      "ABBV-647"
+    ],
+    "name_full": "Cofetuzumab Pelidotin | PF-06647020 | ABBV-647",
+    "company": "Pfizer Stemcentrx (now AbbVie) In collaboration with Indiana University",
+    "url": "https://www.adcreview.com/drugmap/pf-06647020-pf-06647020-abbv-647/",
+    "slug": "pf-06647020-pf-06647020-abbv-647",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "21029",
+    "name": "CUSP06 (previously known as AMT-707)",
+    "synonyms": [],
+    "name_full": "CUSP06 (previously known as AMT-707)",
+    "company": "OnCusp Therapeutics (CUSP06) Multitude Therapeutics (AMT-707)",
+    "url": "https://www.adcreview.com/drugmap/cusp06-previously-known-as-amt-707/",
+    "slug": "cusp06-previously-known-as-amt-707",
+    "organ_tags": [
+      "kidneys",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "2720",
+    "name": "DMOT4039A (DMOT-4039A / RG7600 / RG 7600)",
+    "synonyms": [],
+    "name_full": "DMOT4039A (DMOT-4039A / RG7600 / RG 7600)",
+    "company": "Genentech Inc. (South San Francisco, CA, USA) / Roche, F. Hoffmann-La Roche Ltd. (Basel, Switzerland)",
+    "url": "https://www.adcreview.com/drugmap/dmot4039a-dmot-4039a-rg7600-rg-7600/",
+    "slug": "dmot4039a-dmot-4039a-rg7600-rg-7600",
+    "organ_tags": [
+      "ovaries",
+      "pancreas"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "17195",
+    "name": "DS-9606a",
+    "synonyms": [],
+    "name_full": "DS-9606a",
+    "company": "Daiichi Sankyo",
+    "url": "https://www.adcreview.com/drugmap/ds-9606a/",
+    "slug": "ds-9606a",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6800",
+    "name": "EC2629",
+    "synonyms": [],
+    "name_full": "EC2629",
+    "company": "Endocyte",
+    "url": "https://www.adcreview.com/drugmap/ec2629/",
+    "slug": "ec2629",
+    "organ_tags": [
+      "breast",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "5375",
+    "name": "EDO-772P/B776",
+    "synonyms": [],
+    "name_full": "EDO-772P/B776",
+    "company": "Mundipharma EDO GmbH",
+    "url": "https://www.adcreview.com/drugmap/edo-772pb776/",
+    "slug": "edo-772pb776",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "20574",
+    "name": "Emiltatug Ledadotin",
+    "synonyms": [
+      "XMT-1660"
+    ],
+    "name_full": "Emiltatug Ledadotin | XMT-1660",
+    "company": "Mersana",
+    "url": "https://www.adcreview.com/drugmap/emiltatug-ledadotin-xmt-1660/",
+    "slug": "emiltatug-ledadotin-xmt-1660",
+    "organ_tags": [
+      "breast",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "12108",
+    "name": "Epitumomab cituxetan",
+    "synonyms": [],
+    "name_full": "Epitumomab cituxetan",
+    "company": "",
+    "url": "https://www.adcreview.com/drugmap/epitumomab-cituxetan/",
+    "slug": "epitumomab-cituxetan",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6774",
+    "name": "HKT288 (CDH6-ADC)",
+    "synonyms": [],
+    "name_full": "HKT288 (CDH6-ADC)",
+    "company": "Novartis and ImmunoGen",
+    "url": "https://www.adcreview.com/drugmap/hkt288-cdh6-adc/",
+    "slug": "hkt288-cdh6-adc",
+    "organ_tags": [
+      "kidneys",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "7490",
+    "name": "IMAB027-vcMMAE",
+    "synonyms": [],
+    "name_full": "IMAB027-vcMMAE",
+    "company": "Ganymed Pharmaceuticals | Astellas",
+    "url": "https://www.adcreview.com/drugmap/imab027-vcmmae/",
+    "slug": "imab027-vcmmae",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1029",
+    "name": "IMGN 289",
+    "synonyms": [],
+    "name_full": "IMGN 289",
+    "company": "ImmungoGen",
+    "url": "https://www.adcreview.com/drugmap/imgn-289/",
+    "slug": "imgn-289",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1030",
+    "name": "IMGN-388",
+    "synonyms": [],
+    "name_full": "IMGN-388",
+    "company": "ImmunoGen",
+    "url": "https://www.adcreview.com/drugmap/imgn-388/",
+    "slug": "imgn-388",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1052",
+    "name": "Indusatumab Vedotin",
+    "synonyms": [
+      "MLN-0264",
+      "TAK-264"
+    ],
+    "name_full": "Indusatumab Vedotin | MLN-0264 | TAK-264",
+    "company": "Takeda / Millennium Pharmaceuticals",
+    "url": "https://www.adcreview.com/drugmap/indusatumab-vedotin-mln-0264/",
+    "slug": "indusatumab-vedotin-mln-0264",
+    "organ_tags": [
+      "colon",
+      "esophagus",
+      "lg_intestine",
+      "lungs",
+      "mesentery",
+      "pancreas",
+      "prostate",
+      "rectum",
+      "skin",
+      "sm_intestine",
+      "stomach",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "13059",
+    "name": "IPH43",
+    "synonyms": [],
+    "name_full": "IPH43",
+    "company": "Innate Pharma in collaboration with AstraZeneca",
+    "url": "https://www.adcreview.com/drugmap/iph43/",
+    "slug": "iph43",
+    "organ_tags": [
+      "ovaries",
+      "prostate",
+      "ureter",
+      "urethra"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "7091",
+    "name": "Luveltamab Tazevibulin - SΤRO-002 - Luvelta",
+    "synonyms": [],
+    "name_full": "Luveltamab Tazevibulin - SΤRO-002 - Luvelta",
+    "company": "Sutro Biopharma",
+    "url": "https://www.adcreview.com/drugmap/luveltamab-tazevibulin-s%cf%84ro-002/",
+    "slug": "luveltamab-tazevibulin-s%cf%84ro-002",
+    "organ_tags": [
+      "ovaries",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6791",
+    "name": "Mecbotamab Vedotin",
+    "synonyms": [
+      "BA3011",
+      "CAB-Axl-ADC",
+      "CAB-anti-Axl-ADC"
+    ],
+    "name_full": "Mecbotamab Vedotin | BA3011 | CAB-Axl-ADC | CAB-anti-Axl-ADC",
+    "company": "BioAtla in collaboration with Sinobioway Biomedicine",
+    "url": "https://www.adcreview.com/drugmap/cab-axl-adc-cab-anti-axl-adc/",
+    "slug": "cab-axl-adc-cab-anti-axl-adc",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "esophagus",
+      "liver",
+      "lungs",
+      "lymphatic_system",
+      "melanocytes",
+      "ovaries",
+      "pancreas"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1066",
+    "name": "MEDI-547",
+    "synonyms": [],
+    "name_full": "MEDI-547",
+    "company": "MedImmune",
+    "url": "https://www.adcreview.com/drugmap/medi-547/",
+    "slug": "medi-547",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "15982",
+    "name": "Misitatug Blivedotin",
+    "synonyms": [
+      "RC88"
+    ],
+    "name_full": "Misitatug Blivedotin | RC88",
+    "company": "Remegen Biosciences (Shandong China), Yantai Rongchang Biological Engineering (manufactured by MabPlex)",
+    "url": "https://www.adcreview.com/drugmap/rc88/",
+    "slug": "rc88",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "16533",
+    "name": "Opugotamig olatansine",
+    "synonyms": [
+      "IMGN-151",
+      "IMGN151"
+    ],
+    "name_full": "Opugotamig olatansine | IMGN-151 | IMGN151",
+    "company": "ImmunoGen is now part of AbbVie",
+    "url": "https://www.adcreview.com/drugmap/imgn151/",
+    "slug": "imgn151",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1042",
+    "name": "PF 06263507 (A1-mcMMAF",
+    "synonyms": [
+      "Anti-5T4 monoclonal antibody",
+      "PF-06263507",
+      "PF06263507)"
+    ],
+    "name_full": "PF 06263507 (A1-mcMMAF | Anti-5T4 monoclonal antibody | PF-06263507 | PF06263507)",
+    "company": "Oxford BioMedica; Pfizer (Wyeth)",
+    "url": "https://www.adcreview.com/drugmap/pf-06263507/",
+    "slug": "pf-06263507",
+    "organ_tags": [
+      "bladder",
+      "breast",
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "5626",
+    "name": "PF-06647263 (anti-EFNA4-ADC)",
+    "synonyms": [],
+    "name_full": "PF-06647263 (anti-EFNA4-ADC)",
+    "company": "Pfizer",
+    "url": "https://www.adcreview.com/drugmap/pf-06647263/",
+    "slug": "pf-06647263",
+    "organ_tags": [
+      "breast",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "5624",
+    "name": "PF-06650808 (Anti-NOTCH3 ADC)",
+    "synonyms": [],
+    "name_full": "PF-06650808 (Anti-NOTCH3 ADC)",
+    "company": "Pfizer (Wyeth)",
+    "url": "https://www.adcreview.com/drugmap/pf-06650808/",
+    "slug": "pf-06650808",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6737",
+    "name": "PF-06664178",
+    "synonyms": [
+      "PF06664178",
+      "PF 06664178"
+    ],
+    "name_full": "PF-06664178 | PF06664178 | PF 06664178",
+    "company": "Pfizer (Wyeth)",
+    "url": "https://www.adcreview.com/drugmap/pf-06664178-pf06664178-pf-06664178/",
+    "slug": "pf-06664178-pf06664178-pf-06664178",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "20966",
+    "name": "PLB-002",
+    "synonyms": [],
+    "name_full": "PLB-002",
+    "company": "Primelink Biotherapeutics (Suzhou) Co",
+    "url": "https://www.adcreview.com/drugmap/plb-002/",
+    "slug": "plb-002",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "16764",
+    "name": "PRO1184",
+    "synonyms": [],
+    "name_full": "PRO1184",
+    "company": "ProfoundBio",
+    "url": "https://www.adcreview.com/drugmap/pro1184-adc-is-directed-toward-folr1/",
+    "slug": "pro1184-adc-is-directed-toward-folr1",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "20518",
+    "name": "PTK7-CPT113",
+    "synonyms": [],
+    "name_full": "PTK7-CPT113",
+    "company": "Aadi Bioscience WuXi Biologics, and Hangzhou DAC Biotechnology,",
+    "url": "https://www.adcreview.com/drugmap/ptk7-cpt113/",
+    "slug": "ptk7-cpt113",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6755",
+    "name": "Q5-Drug Conjugate",
+    "synonyms": [],
+    "name_full": "Q5-Drug Conjugate",
+    "company": "Alteogen",
+    "url": "https://www.adcreview.com/drugmap/q5-drug-conjugate/",
+    "slug": "q5-drug-conjugate",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1038",
+    "name": "RG-7841 (Anti-Ly6E / DLYE5953A)",
+    "synonyms": [],
+    "name_full": "RG-7841 (Anti-Ly6E / DLYE5953A)",
+    "company": "Genentech/Roche (in collaboration with Seattle Genetic)",
+    "url": "https://www.adcreview.com/drugmap/rg-7841/",
+    "slug": "rg-7841",
+    "organ_tags": [
+      "colon",
+      "lungs",
+      "pancreas",
+      "prostate",
+      "skin",
+      "uterus"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "14492",
+    "name": "RN927C",
+    "synonyms": [],
+    "name_full": "RN927C",
+    "company": "Pfizer/Rinat",
+    "url": "https://www.adcreview.com/drugmap/rn927c/",
+    "slug": "rn927c",
+    "organ_tags": [
+      "breast",
+      "lungs",
+      "ovaries",
+      "pancreas"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1054",
+    "name": "SAR 566658 (SAR566658)",
+    "synonyms": [],
+    "name_full": "SAR 566658 (SAR566658)",
+    "company": "Sanofi; ImmunoGen",
+    "url": "https://www.adcreview.com/drugmap/sar-566658/",
+    "slug": "sar-566658",
+    "organ_tags": [
+      "breast",
+      "colon",
+      "ovaries",
+      "prostate",
+      "skin"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "13968",
+    "name": "Satumomab Penditide",
+    "synonyms": [
+      "OncoScint® CR/OV"
+    ],
+    "name_full": "Satumomab Penditide | OncoScint® CR/OV",
+    "company": "Cytogen Corporation (Primary) Chiron Theraoeutics (Europe) Knoll Pharmaceuticals (Europe) Manufacturer: Lonza Biologics",
+    "url": "https://www.adcreview.com/drugmap/satumomab-penditide-oncoscint-cr-ov/",
+    "slug": "satumomab-penditide-oncoscint-cr-ov",
+    "organ_tags": [
+      "colon",
+      "lungs",
+      "ovaries",
+      "pancreas"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "16280",
+    "name": "SGN-B7H4V",
+    "synonyms": [],
+    "name_full": "SGN-B7H4V",
+    "company": "Seagen",
+    "url": "https://www.adcreview.com/drugmap/sgn-b7h4v/",
+    "slug": "sgn-b7h4v",
+    "organ_tags": [
+      "breast",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "1032",
+    "name": "Sofituzumab vedotin",
+    "synonyms": [
+      "Anti-MUC16 ADC",
+      "RG7458",
+      "DMUC5754A"
+    ],
+    "name_full": "Sofituzumab vedotin | Anti-MUC16 ADC | RG7458 | DMUC5754A",
+    "company": "Roche, F. Hoffmann-La Roche Ltd. (Basel Switzerland)",
+    "url": "https://www.adcreview.com/drugmap/sofituzumab-vedotin-anti-muc16-adc-rg-7458-dmuc-5754-a/",
+    "slug": "sofituzumab-vedotin-anti-muc16-adc-rg-7458-dmuc-5754-a",
+    "organ_tags": [
+      "ovaries",
+      "pancreas"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "12031",
+    "name": "Tamrintamab Pamozirine",
+    "synonyms": [
+      "SC-003",
+      "Anti-DPEP3 ADC"
+    ],
+    "name_full": "Tamrintamab Pamozirine | SC-003 | Anti-DPEP3 ADC",
+    "company": "AbbVie Stemcentrx LLC",
+    "url": "https://www.adcreview.com/drugmap/tamrintamab-pamozirin/",
+    "slug": "tamrintamab-pamozirin",
+    "organ_tags": [
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "18460",
+    "name": "Trastuzumab Envedotin",
+    "synonyms": [
+      "DP303c"
+    ],
+    "name_full": "Trastuzumab Envedotin | DP303c",
+    "company": "CSPC ZhongQi Pharmaceutical Technology Co.",
+    "url": "https://www.adcreview.com/drugmap/dp303c/",
+    "slug": "dp303c",
+    "organ_tags": [
+      "breast",
+      "ovaries",
+      "stomach"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "2015",
+    "name": "VYNFINIT®",
+    "synonyms": [
+      "Vintafolide (EC145/MK 8109)"
+    ],
+    "name_full": "VYNFINIT® | Vintafolide (EC145/MK 8109)",
+    "company": "Endocyte, Merck/MSD",
+    "url": "https://www.adcreview.com/drugmap/vintafolide-ec145-mk/",
+    "slug": "vintafolide-ec145-mk",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "6767",
+    "name": "ZV05-ADC (5T4-MMAF ADC)",
+    "synonyms": [
+      "ZV05-mcMMAF",
+      "ZV0501"
+    ],
+    "name_full": "ZV05-ADC (5T4-MMAF ADC) | ZV05-mcMMAF | ZV0501",
+    "company": "Zova Biotherapeutics (Zova Bio); Concortis Biotherapeutics (a subsidiary of Sorrento Therapeutics)",
+    "url": "https://www.adcreview.com/drugmap/zv05-adc-5t4-mmaf-adc/",
+    "slug": "zv05-adc-5t4-mmaf-adc",
+    "organ_tags": [
+      "colon",
+      "kidneys",
+      "lungs",
+      "ovaries",
+      "pancreas",
+      "stomach"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  },
+  {
+    "itemid": "19555",
+    "name": "ZW191",
+    "synonyms": [],
+    "name_full": "ZW191",
+    "company": "Zymeworks",
+    "url": "https://www.adcreview.com/drugmap/zw191/",
+    "slug": "zw191",
+    "organ_tags": [
+      "lungs",
+      "ovaries"
+    ],
+    "site_tagged_gyn": true,
+    "ctgov_confirmed": false,
+    "gyn_subtypes": [],
+    "n_gyn_trials": 0,
+    "statuses": [],
+    "phases": [],
+    "trials": [],
+    "trial_pmids": []
+  }
+]
