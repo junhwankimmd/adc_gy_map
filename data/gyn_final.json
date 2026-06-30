@@ -3693,7 +3693,7 @@
     "site_ncts": [
       "NCT05263479"
     ],
-    "payload": "Topoisomerase-I inhibitor"
+    "payload": "Microtubule inhibitor"
   },
   {
     "itemid": "20408",
@@ -9322,7 +9322,7 @@
     "target": "Mucin-1",
     "site_summary": "Epitumomab cituxetan is a recombinant mouse monoclonal antibody expressed in CHO binding to human MUC1 conjugated to the a chelator cituxetan.",
     "site_ncts": [],
-    "payload": "Other / unspecified"
+    "payload": "Radioconjugate"
   },
   {
     "itemid": "6774",
@@ -9544,7 +9544,7 @@
     "target": "FRα (FOLR1)",
     "site_summary": "Luveltamab Tazevibulin - SΤRO-002 is a FolRα-targeting Antibody-drug Conjugate or ADC, with potent cytotoxic activity on FolRα expressing tumors in vitro and in vivo, including in cells with low expression levels (~0.2 million copies/cell) of FolRα.",
     "site_ncts": [],
-    "payload": "Other / unspecified"
+    "payload": "Microtubule inhibitor"
   },
   {
     "itemid": "6791",
@@ -9999,7 +9999,7 @@
     "target": "PTK7",
     "site_summary": "PTK7-CPT113 potentially represents a differentiated opportunity to be among the first next-wave ADCs in clinical development for high PTK7 expressing cancers, including non-small cell lung cancer (NSCLC), ovarian cancer and several other major indications.",
     "site_ncts": [],
-    "payload": "Other / unspecified"
+    "payload": "Topoisomerase-I inhibitor"
   },
   {
     "itemid": "6755",
@@ -10103,7 +10103,7 @@
     "target": "TROP2",
     "site_summary": "RN927C is a cleavable Trop-2 ADC using a site-specific transglutaminase-mediated conjugation method and a proprietary microtubule inhibitor (MTI) linker-payload, PF-06380101.",
     "site_ncts": [],
-    "payload": "Other / unspecified"
+    "payload": "Microtubule inhibitor"
   },
   {
     "itemid": "1054",
@@ -10250,10 +10250,10 @@
         "from_trial": false
       }
     ],
-    "target": "Other / unspecified",
+    "target": "TAG-72",
     "site_summary": "lndium-111 Satumomab Pendetide, branded as OncoScint® CR/OV, was the first U.S. FDA-approved antibody used for tumor imaging",
     "site_ncts": [],
-    "payload": "Other / unspecified"
+    "payload": "Radioconjugate"
   },
   {
     "itemid": "16280",

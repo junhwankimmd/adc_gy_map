@@ -106,6 +106,7 @@ INN_STEM = {
     "rovalpituzumab": "DLL3",
     "tamrintamab": "DPEP3",
     "izalontamab": "EGFR × HER3",
+    "satumomab": "TAG-72",
 }
 
 # Curated code-name -> target for well-established ADCs whose adcreview page
@@ -139,6 +140,10 @@ PAYLOAD_ALIASES = [
     ("Tubulysin",           [r"tubulysin"]),
     ("Amanitin",            [r"amanitin", r"amatoxin"]),
     ("Auristatin",          [r"auristatin", r"\bav?e\b dolastatin", r"dolastatin"]),
+    # generic / non-auristatin classes (checked after the specific warheads above)
+    ("Microtubule inhibitor", [r"microtubule inhibitor", r"\bmti\b", r"tubulin inhibitor"]),
+    ("Radioconjugate",      [r"indium[\s-]?111", r"\b111[\s-]?in\b", r"radioimmun", r"radioconjugat",
+                             r"\bchelator\b", r"\b(177lu|225ac|89zr|90y)\b"]),
 ]
 PAYLOAD_STEM = [  # antibody-INN payload sub-stem -> payload (checked as substring, order matters)
     ("vedotin", "MMAE (auristatin)"), ("mafodotin", "MMAF (auristatin)"),
@@ -148,8 +153,12 @@ PAYLOAD_STEM = [  # antibody-INN payload sub-stem -> payload (checked as substri
     ("ozogamicin", "Calicheamicin"),
     ("tesirine", "PBD dimer"), ("talirine", "PBD dimer"),
     ("duocarmazine", "Duocarmycin"), ("ecteribulin", "Eribulin"),
+    ("tazevibulin", "Microtubule inhibitor"), ("cpt113", "Topoisomerase-I inhibitor"),
+    ("tetraxetan", "Radioconjugate"), ("pendetide", "Radioconjugate"), ("penditide", "Radioconjugate"),
+    ("tiuxetan", "Radioconjugate"), ("cituxetan", "Radioconjugate"),
     ("tansine", "Maytansinoid"),
     ("tecan", "Topoisomerase-I inhibitor"),   # rezetecan/tirumotecan/sesutecan/samrotecan/...
+    ("xetan", "Radioconjugate"),              # remaining chelator stems (corixetan/satetraxetan/...)
     ("dotin", "Auristatin"),                  # any remaining ...dotin
 ]
 
